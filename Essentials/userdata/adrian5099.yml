@@ -1,0 +1,24 @@
+timestamps:
+  login: 1338679383546
+  lastteleport: 1338645280985
+  logout: 1338679446693
+ipAddress: 99.235.46.92
+lastlocation:
+  world: world
+  x: 1497.5047173546643
+  y: 84.4132691836773
+  z: -25.16776064909631
+  yaw: -131.11383
+  pitch: 14.999972
+nickname: Adrian
+godmode: false
+homes:
+  home:
+    world: world
+    x: 3234.3865166425917
+    y: 15.0
+    z: 3089.2424149990356
+    yaw: 58.350037
+    pitch: 21.9
+ban:
+  reason: Competing server

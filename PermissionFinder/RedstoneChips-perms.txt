@@ -1,0 +1,80 @@
+---------- Permission nodes for RedstoneChips ----------
+redstonechips.admin - Grants access to all of RedstoneChips including admin commands.
+redstonechips.* - Grants access to all of RedstoneChips excluding admin commands.
+redstonechips.deny - Denys access to all of RedstoneChips.
+redstonechips.command.* - Grants access to all of RedstoneChips commands excluding admin commands.
+redstonechips.command.admin - Grants access to all of RedstoneChips commands including admin commands.
+redstonechips.command.deny - Deny all commands.
+redstonechips.circuit.* - Grants access to create and destroy all RedstoneChips circuits.
+redstonechips.circuit.deny - Deny all circuits.
+redstonechips.command.redstonechips - Grants the redstonechips command.
+redstonechips.command.redstonechips.deny - Denies the redstonechips command.
+redstonechips.command.rclist - Grants the rclist command.
+redstonechips.command.rclist.deny - Denies the rclist command.
+redstonechips.command.rcclasses - Grants the rcclasses command.
+redstonechips.command.rcclasses.deny - Denies the rcclasses command.
+redstonechips.command.rcprefs - Grants the rcprefs command.
+redstonechips.command.rcprefs.set - Grants using the rcprefs command to set preferences.
+redstonechips.command.rcprefs.deny - Denies the rcprefs command.
+redstonechips.command.rcprefs.set.deny - Denies using the rcprefs command to set preferences.
+redstonechips.command.rcdebug - Grants the rcdebug command.
+redstonechips.command.rcdebug.deny - Denies the rcdebug command.
+redstonechips.command.rcpin - Grants the rcpin command.
+redstonechips.command.rcpin.deny - Denies the rcpin command.
+redstonechips.command.rcactivate - Grants the rcactivate command.
+redstonechips.command.rcactivate.deny - Denies the rcactivate command.
+redstonechips.command.rcdestroy - Grants the rcdestroy command.
+redstonechips.command.rcdestroy.deny - Denies the rcdestroy command.
+redstonechips.command.rcbreak - Grants the rcbreak command.
+redstonechips.command.rcbreak.id - Grants the rcbreak command with a circuit id.
+redstonechips.command.rcbreak.deny - Denies the rcbreak command.
+redstonechips.command.rcbreak.id.deny - Denies the rcbreak command with a circuit id.
+redstonechips.command.rctype - Grants the rctype command.
+redstonechips.command.rctype.deny - Denies the rctype command.
+redstonechips.command.rcreset - Grants the rcreset command.
+redstonechips.command.rcreset.id - Grants the rcreset command with a circuit id.
+redstonechips.command.rcreset.all - Grants the rcreset all command.
+redstonechips.command.rcreset.deny - Denies the rcreset command.
+redstonechips.command.rcreset.id.deny - Denies the rcreset command with a circuit id.
+redstonechips.command.rcreset.all.deny - Denies the rcreset all command
+redstonechips.command.rcenable - Grants the rcenable command.
+redstonechips.command.rcenable.id - Grants the rcenable command with a circuit id.
+redstonechips.command.rcenable.deny - Denies the rcenable command.
+redstonechips.command.rcenable.id.deny - Denies the rcenable command with a circuit id.
+redstonechips.command.rcdisable - Grants the rcdisable command.
+redstonechips.command.rcdisable.id - Grants the rcdisable command with a circuit id.
+redstonechips.command.rcdisable.deny - Denies the rcdisable command.
+redstonechips.command.rcdisable.id.deny - Denies the rcdisable command with a circuit id.
+redstonechips.command.rcchannels - Grants the rcchannels command.
+redstonechips.command.rcchannels.deny - Denies the rcchannels command.
+redstonechips.command.rcinfo - Grants the rcinfo command.
+redstonechips.command.rcinfo.deny - Denies the rcinfo command.
+redstonechips.command.rcfixioblocks - Grants the rcfixioblocks command.
+redstonechips.command.rcfixioblocks.id - Grants the rcfixioblocks command with a circuit id.
+redstonechips.command.rcfixioblocks.deny - Denies the rcfixioblocks command.
+redstonechips.command.rcfixioblocks.id.deny - Denies the rcfixioblocks command with a circuit id.
+redstonechips.command.rctool - Grants the rctool command.
+redstonechips.command.rctool.deny - Denies the rctool command.
+redstonechips.command.rcname - Grants the rcname command.
+redstonechips.command.rcname.deny - Denies the rcname command.
+redstonechips.command.rcname.id - Grants the rcname command with a circuit id.
+redstonechips.command.rcname.id.deny - Denies the rcname command with a circuit id.
+redstonechips.command.rcsel - Grants the rcsel command.
+redstonechips.command.rcsel.deny - Denies the rcsel command.
+redstonechips.command.rcarg - Grants the rcarg command.
+redstonechips.command.rcarg.deny - Denies the rcarg command.
+redstonechips.command.rcsave - Grants the rcsave command.
+redstonechips.command.rcsave.deny - Denies the rcsave command.
+redstonechips.command.rcload - Grants the rcload command.
+redstonechips.command.rcload.deny - Denies the rcload command.
+redstonechips.command.rcportect - Grants the rcprotect command.
+redstonechips.command.rcprotect.deny - Denies the rcprotect command.
+redstonechips.command.rchelp - Grants the rchelp command.
+redstonechips.command.rchelp.deny - Denies the rchelp command.
+redstonechips.command.rcsend - Grants the rcsend command.
+redstonechips.command.rcsend.deny - Denies the rcsend command.
+redstonechips.circuit.destroy.* - Grants permission to destroy all circuits.
+redstonechips.circuit.create.* - Grants permission to create all circuits.
+redstonechips.circuit.destroy.deny - Denies permission to destroy all circuits.
+redstonechips.circuit.create.deny - Denies  permission to create all circuits.
+redstonechips.channel.admin - Grants admin rights to all channels.

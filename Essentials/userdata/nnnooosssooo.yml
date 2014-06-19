@@ -1,0 +1,27 @@
+timestamps:
+  login: 1336406330687
+  lastteleport: 1336405834067
+  logout: 1336406347662
+  mute: 0
+ipAddress: 213.104.249.66
+lastlocation:
+  world: world
+  x: 3891.260802642634
+  y: 64.0
+  z: 369.9715221251899
+  yaw: 144.99544
+  pitch: 17.10021
+money: 476799.0
+homes:
+  home:
+    world: world
+    x: 3611.0998446164895
+    y: 72.0
+    z: -1054.8655896070875
+    yaw: -94.85266
+    pitch: 16.499954
+ban:
+  reason: Advertising. Don't come back. IP ban
+  timeout: 0
+godmode: false
+muted: false

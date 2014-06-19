@@ -1,0 +1,24 @@
+timestamps:
+  login: 1337813430805
+  lastteleport: 1337815515371
+  logout: 1337815785321
+ipAddress: 97.87.182.79
+lastlocation:
+  world: world
+  x: -49.181835445042594
+  y: 80.0
+  z: 428.8539593068008
+  yaw: -179.64813
+  pitch: 23.009987
+homes:
+  home:
+    world: world
+    x: 2846.2679552900495
+    y: 65.0
+    z: 3723.7191298783487
+    yaw: 89.19208
+    pitch: 6.9362006
+money: 20784.0
+ban:
+  reason: fuck off you scrub
+  timeout: 0

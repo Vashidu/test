@@ -1,0 +1,24 @@
+timestamps:
+  login: 1336183779750
+  logout: 1336185879646
+  lastteleport: 1336185148846
+  mute: 0
+ipAddress: 24.62.225.228
+lastlocation:
+  world: world
+  x: 3310.300000011921
+  y: 15.0
+  z: 523.7998975201574
+  yaw: 168.69519
+  pitch: 17.10003
+ban:
+  reason: Shut the fuck up?
+homes:
+  home:
+    world: world
+    x: 3271.912011649704
+    y: 81.0
+    z: -34.75316806475484
+    yaw: -58.25438
+    pitch: -27.149788
+muted: false

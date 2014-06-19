@@ -1,0 +1,23 @@
+timestamps:
+  login: 1335902513720
+  logout: 1335902598313
+  lastteleport: 1335902553466
+ipAddress: 92.28.56.46
+lastlocation:
+  world: world
+  x: 3500.2884857911317
+  y: 37.0
+  z: -1010.0987417262443
+  yaw: -267.69223
+  pitch: -4.6669354
+homes:
+  home:
+    world: world
+    x: 3606.5415764367017
+    y: 64.0
+    z: -109.24643994103154
+    yaw: -135.35301
+    pitch: 1.0683075
+money: 1.0
+ban:
+  reason: 3rd offence Grieifing

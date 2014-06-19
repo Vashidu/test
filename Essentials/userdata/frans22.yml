@@ -1,0 +1,27 @@
+timestamps:
+  login: 1338583082891
+  lastteleport: 1338584035536
+  logout: 1338584072628
+  jail: 0
+  mute: 0
+ipAddress: 85.228.251.91
+lastlocation:
+  world: world
+  x: 340.713796720112
+  y: 64.93612497923645
+  z: 3257.1884611343485
+  yaw: 288.68903
+  pitch: 0.8407244
+homes:
+  home:
+    world: world
+    x: 336.7024536944119
+    y: 64.0
+    z: 3276.3438626596358
+    yaw: 168.69702
+    pitch: 17.204086
+money: 151126.5
+jailed: false
+ban:
+  reason: Griefing. Idiot.
+muted: false

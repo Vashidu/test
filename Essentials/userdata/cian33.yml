@@ -1,0 +1,25 @@
+timestamps:
+  login: 1338659502543
+  lastteleport: 1338656979419
+  logout: 1338659532218
+  mute: 1652752275724
+ipAddress: 83.243.131.28
+lastlocation:
+  world: world
+  x: 209.25845177501904
+  y: 69.0
+  z: 194.27653159462525
+  yaw: -204.23297
+  pitch: 37.04999
+money: 0.0
+homes:
+  home:
+    world: world
+    x: 1537.1711205430825
+    y: 69.0
+    z: 79.47277414436653
+    yaw: -43.90308
+    pitch: 31.891708
+muted: true
+ban:
+  reason: Griefing, LAST offense. Perm ban. Go find another server, douche.

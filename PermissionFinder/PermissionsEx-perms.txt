@@ -1,0 +1,2 @@
+---------- Permission nodes for PermissionsEx ----------
+permissionsex.handler.injected - Service permissions used by PEX for superperms bridge injection. DO NOT USE IT!

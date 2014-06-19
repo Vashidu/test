@@ -1,0 +1,23 @@
+timestamps:
+  login: 1335487281342
+  lastteleport: 1335486956987
+  logout: 1335487019327
+ipAddress: 108.38.113.214
+lastlocation:
+  world: world
+  x: 734.8085377384497
+  y: 73.0
+  z: -1990.347179109739
+  yaw: 273.0238
+  pitch: 9.900003
+homes:
+  home:
+    world: world
+    x: 3637.595606924173
+    y: 34.0
+    z: 1862.702609846704
+    yaw: -178.72772
+    pitch: -5.100005
+money: 0.0
+ban:
+  reason: bye bye griefer

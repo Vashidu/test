@@ -1,0 +1,25 @@
+timestamps:
+  login: 1336971528399
+  lastteleport: 1336971409700
+  logout: 1336971550805
+  mute: 0
+ipAddress: 86.26.215.181
+lastlocation:
+  world: world
+  x: -3679.5
+  y: 28.0
+  z: 1283.5
+  yaw: 63.580322
+  pitch: 2.7551665
+homes:
+  home:
+    world: world
+    x: -3679.5
+    y: 6.5
+    z: 1283.5
+    yaw: 63.580322
+    pitch: 2.7551665
+money: 26861.0
+muted: false
+ban:
+  reason: being a faggot

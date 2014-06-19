@@ -1,0 +1,26 @@
+timestamps:
+  login: 1337853261846
+  lastteleport: 1334765182431
+  logout: 1337853319138
+ipAddress: 72.192.206.198
+lastlocation:
+  world: world
+  x: -45.5
+  y: 121.62000000476837
+  z: 429.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: -3878.2796902913037
+    y: 72.5
+    z: -1578.5585552529687
+    yaw: 358.71423
+    pitch: 21.300028
+godmode: true
+money: 9.99999999985E12
+nickname: §3Ninja
+ban:
+  reason: Temporarily banned from server for  1 minute 40 seconds
+  timeout: 0

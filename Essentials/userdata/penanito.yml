@@ -1,0 +1,22 @@
+timestamps:
+  login: 1337485941117
+  lastteleport: 1336998371066
+  logout: 1337486102192
+ipAddress: 70.73.14.226
+lastlocation:
+  world: world
+  x: -42.5
+  y: 120.62000000476837
+  z: 427.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 4185.277296281939
+    y: 12.0
+    z: 1707.300000011921
+    yaw: -157.72363
+    pitch: 37.800014
+nickname: §4Gladiator_Penanito
+money: 26795.0

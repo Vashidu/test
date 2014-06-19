@@ -1,0 +1,25 @@
+timestamps:
+  login: 1338363909261
+  lastteleport: 1338364101861
+  logout: 1338364221819
+  mute: 0
+ipAddress: 70.16.78.47
+lastlocation:
+  world: world
+  x: -50.2635294703886
+  y: 79.0
+  z: 434.0345188704817
+  yaw: -104.60616
+  pitch: 7.972827
+muted: false
+homes:
+  home:
+    world: world
+    x: 2969.5956363924997
+    y: 15.0
+    z: 2792.37101027174
+    yaw: -166.5089
+    pitch: 27.857254
+money: 6.0
+ban:
+  reason: for greifng warp parkour

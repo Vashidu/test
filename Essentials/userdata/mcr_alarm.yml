@@ -1,0 +1,23 @@
+timestamps:
+  login: 1335567226203
+  lastteleport: 1335471283017
+  logout: 1335567219584
+ipAddress: 75.143.245.128
+lastlocation:
+  world: world_nether
+  x: 103.35968082654391
+  y: 68.0
+  z: -253.67271129086586
+  yaw: 84.9241
+  pitch: 20.550003
+homes:
+  home:
+    world: world
+    x: 261.81121539309015
+    y: 66.0
+    z: 575.0821611006697
+    yaw: 181.92822
+    pitch: 11.24996
+money: 190.0
+ban:
+  reason: Swatstickas are a disturbance to peace/

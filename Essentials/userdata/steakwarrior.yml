@@ -1,0 +1,26 @@
+timestamps:
+  login: 1336985396737
+  lastteleport: 1336987412768
+  logout: 1336987488673
+  jail: 0
+ipAddress: 174.7.185.15
+lastlocation:
+  world: world
+  x: 4621.639947388
+  y: 65.0
+  z: 2472.699999988079
+  yaw: -340.9815
+  pitch: 24.944075
+money: 36606.0
+homes:
+  home:
+    world: world
+    x: 4620.5705044110755
+    y: 65.0
+    z: 2469.300000011921
+    yaw: -7.680847
+    pitch: 15.95144
+jailed: false
+nickname: §0Steak§2Warrior
+ban:
+  reason: no cheating

@@ -1,0 +1,38 @@
+timestamps:
+  login: 1341001799025
+  logout: 1341001933054
+  lastteleport: 1340813821627
+ipAddress: 71.76.228.193
+lastlocation:
+  world: world
+  x: 509.93983517435163
+  y: 74.0
+  z: 753.7963123962927
+  yaw: -36.51607
+  pitch: 33.927074
+afk: false
+homes:
+  home:
+    world: world
+    x: 877.9004567374985
+    y: 64.0
+    z: -1470.4302299263663
+    yaw: 237.44421
+    pitch: 6.8999696
+  '2':
+    world: world
+    x: -2066.7516791259627
+    y: 67.91234136025147
+    z: -1184.042104798137
+    yaw: -123.94229
+    pitch: 54.125214
+powertools:
+  '279':
+  - ex
+  '352':
+  - antioch
+godmode: false
+socialspy: true
+teleportenabled: true
+money: 2.99992E7
+nickname: Vash

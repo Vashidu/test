@@ -1,0 +1,22 @@
+timestamps:
+  login: 1336987261349
+  lastteleport: 1336987870488
+  logout: 1336987860520
+ipAddress: 174.7.185.15
+lastlocation:
+  world: world
+  x: 4815.57054484758
+  y: 65.0
+  z: 2208.022147896016
+  yaw: 208.97345
+  pitch: 2.571133
+homes:
+  home:
+    world: world
+    x: 4815.266985157829
+    y: 65.0
+    z: 2208.446561893868
+    yaw: 303.47348
+    pitch: 11.871133
+ban:
+  reason: nice try steak

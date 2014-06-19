@@ -1,0 +1,24 @@
+timestamps:
+  login: 1337165329281
+  lastteleport: 1336341860202
+  logout: 1337165336956
+ipAddress: 24.36.115.165
+lastlocation:
+  world: world
+  x: -36.5
+  y: 117.62000000476837
+  z: 437.5
+  yaw: 0.0
+  pitch: 0.0
+money: 107055.0
+homes:
+  home:
+    world: world
+    x: 1929.300000011921
+    y: 51.0
+    z: -1386.8102584945884
+    yaw: 81.01119
+    pitch: 39.892597
+ban:
+  reason: Griefing warp sand with tnt. Fucking idiot.
+  timeout: 1336773912755

@@ -1,0 +1,23 @@
+timestamps:
+  login: 1336755378275
+  lastteleport: 1335919328191
+  logout: 1336755417597
+ipAddress: 76.230.63.128
+lastlocation:
+  world: world
+  x: 2531.615689231457
+  y: 80.0
+  z: 1422.2804328376308
+  yaw: 0.50527954
+  pitch: 10.105769
+homes:
+  home:
+    world: world
+    x: 3499.7778658673383
+    y: 105.0
+    z: 1824.0142965734706
+    yaw: -22.772308
+    pitch: -1.8235261
+money: 174.0
+ban:
+  reason: You have been banned for pvp logging you will be unbanned in 2 days

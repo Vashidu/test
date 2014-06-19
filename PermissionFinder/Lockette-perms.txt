@@ -1,0 +1,21 @@
+---------- Permission nodes for Lockette ----------
+lockette.* - Permission for a super admin who can do anything.
+lockette.user.* - All the permissions a normal user normally needs.
+lockette.user.create.* - Allows the normal method of locking containers.
+lockette.admin.* - All the permissions a normal admin normally needs.
+lockette.admin.create.* - Allows the admin method of locking containers.
+lockette.user.create.chest - 
+lockette.user.create.furnace - 
+lockette.user.create.dispenser - 
+lockette.user.create.trapdoor - 
+lockette.user.create.door - 
+lockette.admin.create.chest - 
+lockette.admin.create.furnace - 
+lockette.admin.create.dispenser - 
+lockette.admin.create.trapdoor - 
+lockette.admin.create.door - 
+lockette.admin.break - 
+lockette.admin.bypass - 
+lockette.admin.snoop - 
+lockette.admin.reload - 
+lockette.towny.wilds - 

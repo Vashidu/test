@@ -1,0 +1,36 @@
+timestamps:
+  login: 1336796997974
+  lastteleport: 1336500373868
+  logout: 1336797069449
+  jail: 0
+  mute: 0
+ipAddress: 166.82.16.54
+lastlocation:
+  world: world
+  x: 809.7723878357554
+  y: 64.0
+  z: -1175.5157181511213
+  yaw: -270.00095
+  pitch: 17.099997
+godmode: false
+homes:
+  home:
+    world: world
+    x: 4802.257616959699
+    y: 64.0
+    z: 6587.725519674577
+    yaw: 259.07315
+    pitch: -2.400023
+money: 20.0
+jailed: false
+socialspy: true
+powertools:
+  '272':
+  - tnt
+  '283':
+  - fireball
+ban:
+  reason: BEING GAY AS FUCK GTFO
+afk: false
+nickname: §9§lMosconi
+muted: false

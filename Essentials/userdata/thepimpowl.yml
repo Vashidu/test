@@ -1,0 +1,21 @@
+timestamps:
+  login: 1338193247165
+  lastteleport: 1338117146984
+  logout: 1338193263380
+ipAddress: 24.102.37.253
+lastlocation:
+  world: world
+  x: -49.91026442953701
+  y: 80.0
+  z: 431.11104078997283
+  yaw: 55.2519
+  pitch: 34.15025
+nickname: Cole
+homes:
+  home:
+    world: world
+    x: 2.2667204717957756
+    y: 100.0
+    z: 371.3899454981565
+    yaw: 83.85034
+    pitch: 41.54999

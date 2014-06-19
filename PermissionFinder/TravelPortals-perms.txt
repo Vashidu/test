@@ -1,0 +1,23 @@
+---------- Permission nodes for TravelPortals ----------
+travelportals.nopermission - Give users no permissions. This may become the new default. Base off of this.
+travelportals.classicuser - User permissions that work like classic TravelPortals; all users have access to all portals.
+travelportals.normaluser - User permissions that limit each user to their own portals
+travelportals.op - Suggested permissions for ops. Gives access to most commands
+travelportals.* - Gives access to everything. Use with caution.
+travelportals.portal.create - Allows the user to create portals.
+travelportals.portal.use - Allows the user to use his/her own portals.
+travelportals.portal.destroy - Allows the user to destroy his/her own portals.
+travelportals.command.help - Allows the user to see the help.
+travelportals.command.list - Allows the user to see the list of portals.
+travelportals.command.name - Allows the user to name his/her own portals.
+travelportals.command.warp - Allows the user to change the destination of his/her own portals.
+travelportals.command.hide - Allows the user to hide his/her portals.
+travelportals.command.claim - Allows the user to claim unclaimed portals (ones made by older versions)
+travelportals.command.info - Allows the user to get some information about nearby portals.
+travelportals.admin.portal.use - Allows the user to use any existing portals.
+travelportals.admin.portal.destroy - Allows the user to destroy ALL portals; not just his/her own.
+travelportals.admin.command.name - Allows the user to change the name of any existing portal.
+travelportals.admin.command.warp - Allows the user to change the destination of any existing portal.
+travelportals.admin.command.claim - Allows the user to claim existing portals, EVEN IF THEY ARE ALREADY OWNED.
+travelportals.admin.command.deactivate - Allows staff to clean up portals that may no longer be valid.
+travelportals.admin.command.export - Allows staff to force an export of current warps in txt format.

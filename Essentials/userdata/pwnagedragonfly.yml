@@ -1,0 +1,31 @@
+timestamps:
+  login: 1336306137533
+  logout: 1336306186306
+  lastteleport: 1335718046276
+ipAddress: 84.210.11.100
+lastlocation:
+  world: world
+  x: 3886.9451064248883
+  y: 64.0
+  z: 366.1071445751373
+  yaw: -13.322384
+  pitch: 14.020826
+ignore:
+- ipodlover3354
+- baconman_00
+- fantasticlewis9
+- xsuperpunchx
+- kr33perg0d
+godmode: true
+afk: false
+homes:
+  home:
+    world: world
+    x: 2726.599536668874
+    y: 73.5
+    z: 2326.699999988079
+    yaw: 180.19322
+    pitch: 17.873426
+money: 2.0000058377E10
+ban:
+  reason: wow...

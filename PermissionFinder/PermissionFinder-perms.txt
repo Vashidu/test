@@ -1,0 +1,3 @@
+---------- Permission nodes for PermissionFinder ----------
+permissionfinder.findperms - Gives access to the findperms command.
+permissionfinder.dumpperms - Gives access to the dumpperms command.

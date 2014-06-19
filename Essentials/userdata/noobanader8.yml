@@ -1,0 +1,25 @@
+timestamps:
+  login: 1338027233933
+  lastteleport: 1338027241778
+  logout: 1338027398279
+  lastheal: 1335314883167
+ipAddress: 70.48.59.24
+lastlocation:
+  world: world
+  x: 396.57819710415447
+  y: 16.0
+  z: 402.4225914211564
+  yaw: 200.63422
+  pitch: 17.655205
+homes:
+  home:
+    world: world
+    x: 2743.301042573076
+    y: 64.0
+    z: -2342.0548466826326
+    yaw: 184.16864
+    pitch: 22.878277
+godmode: true
+money: 652.0
+ban:
+  reason: grifing parkour

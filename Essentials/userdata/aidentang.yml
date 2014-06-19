@@ -1,0 +1,28 @@
+timestamps:
+  login: 1338612456679
+  logout: 1338613612641
+  lastteleport: 1338613109132
+  lastheal: 1338592466923
+  mute: 0
+ipAddress: 96.25.58.25
+lastlocation:
+  world: world
+  x: 2696.8942708180484
+  y: 38.0
+  z: 1259.959389780138
+  yaw: -80.306244
+  pitch: 21.29998
+money: 103785.0
+homes:
+  home:
+    world: world
+    x: 1812.699999988079
+    y: 70.0
+    z: 5.699999988079072
+    yaw: -255.31543
+    pitch: 12.750003
+godmode: true
+muted: false
+ban:
+  reason: Competing server
+socialspy: true

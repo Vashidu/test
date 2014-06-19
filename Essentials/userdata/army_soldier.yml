@@ -1,0 +1,27 @@
+timestamps:
+  login: 1340914292726
+  lastteleport: 1338024342199
+  logout: 1340914330469
+  jail: 0
+  mute: 0
+ipAddress: 96.233.67.20
+lastlocation:
+  world: world
+  x: -11.562950710105696
+  y: 74.0
+  z: 465.46135994909366
+  yaw: -41.879128
+  pitch: 90.0
+homes:
+  home:
+    world: world
+    x: 4082.4456453691246
+    y: 64.0
+    z: 4372.886753074578
+    yaw: -13.40252
+    pitch: 2.9188354
+godmode: true
+jailed: false
+muted: false
+money: 0.0
+nickname: §4Army§eSoldier

@@ -1,0 +1,24 @@
+timestamps:
+  login: 1340997549927
+  lastteleport: 1340305219693
+  logout: 1340997981434
+ipAddress: 98.250.57.74
+lastlocation:
+  world: world
+  x: -149.0778662155863
+  y: 97.34434640892115
+  z: 715.2054777934009
+  yaw: 254.8501
+  pitch: 71.25003
+nickname: §4§lNer§5§l0
+homes:
+  home:
+    world: world
+    x: 1485.5
+    y: 73.0
+    z: 81.5
+    yaw: -259.96405
+    pitch: 20.849876
+godmode: false
+afk: false
+money: 151570.0

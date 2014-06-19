@@ -1,0 +1,20 @@
+timestamps:
+  login: 1337854762630
+  lastteleport: 1337825762482
+  logout: 1337854769170
+ipAddress: 50.46.199.189
+lastlocation:
+  world: world
+  x: -8.462831258969313
+  y: 77.0
+  z: 386.47001567955357
+  yaw: -329.34805
+  pitch: -4.0997643
+homes:
+  home:
+    world: world
+    x: 1475.8761233077826
+    y: 92.0
+    z: -194.15770254635956
+    yaw: -156.32788
+    pitch: 33.450043

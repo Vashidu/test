@@ -1,0 +1,167 @@
+# This is the configuration of NoLagg, in here you can enable or disable features as you please
+# For more information, you can visit the following websites:
+# http://dev.bukkit.org/server-mods/nolagg/
+# http://forums.bukkit.org/threads/nolagg.36986/
+
+# Manages chunk loading and sending to clients using various new settings
+chunks:
+  # Whether Chunks should be loaded on startup
+  enabled: true
+  # The minimum chunk sending rate (chunks/tick)
+  minRate: 0.25
+  # The maximum chunk sending rate (chunks/tick)
+  maxRate: 2.0
+  # The rate at which chunks are 'triggered' (refreshed, make visible) (trigger packets/tick)
+  triggerRate: 0.5
+  # If you use a plugin that depends on the net server handler for packets, disable this
+  # For example, Raw Critics' Ore Obfuscation does not function with this enabled.
+  # Orebfuscator is supported and works with this enabled.
+  bufferedLoader:
+    # Whether or not to use the buffered packet loader to reduce new memory allocation
+    enabled: true
+    # The amount of threads to use to compress the chunk packets (increase if it can't keep up)
+    threadCount: 2
+
+# Can examine server tick rate performance
+examine:
+  # Whether Examine should be loaded on startup
+  enabled: true
+
+# Can monitor and log server and player performance statistics
+monitor:
+  # Whether Monitor should be loaded on startup
+  enabled: true
+  # The interval at which new performance snapshots are generated
+  monitorInterval: 40
+  # Whether or not to start logging server performance on startup
+  startLoggingOnStartup: false
+  
+  # The server notifies players (with a permission) when the tick rate drops below the threshold
+  lagNotifier:
+    # Enable or disable this feature
+    enabled: false
+    # The interval in miliseconds to send this message (1000 ms = 1 second)
+    interval: 10000
+    # The tick rate at which it starts broadcasting
+    threshold: 15.0
+    # The message to send to these players
+    message: '&cThe server can''t keep up!'
+
+# Buffers items in chunks to prevent lag-outs because of lots of items
+itembuffer:
+  # Whether ItemBuffer should be loaded on startup
+  enabled: true
+  # The maximum amount of items allowed per chunk
+  maxItemsPerChunk: 80
+
+# Stacks nearby items to counter item-drop spammers and reduce item count on the server
+itemstacker:
+  # Whether ItemStacker should be loaded on startup
+  enabled: true
+  # The block radius to look for other items when stacking
+  # You can set it for multiple worlds
+  radius:
+    default: 1.0
+  # The amount of (physical) items needed to form one stack
+  threshold: 2
+  # The interval in ticks at which item stacking is performed (1 tick = 1/20 sec)
+  interval: 20
+  
+  # The item types (materials) to ignore during item stacking, buffering and spawn limits
+  # Use 'orb' to ignore experience orbs
+  ignoredItemTypes:
+  - DIAMOND_PICKAXE
+  - WOODEN_HOE
+
+# Attempts to fix block and sky lighting bugs in worlds
+lighting:
+  # Whether Lighting should be loaded on startup
+  enabled: true
+  # Whether or not lighting is automatically fixed when a new chunk is generated
+  auto: true
+
+# Keeps entity counts below multiple configured thresholds
+spawnlimiter:
+  # Whether SpawnLimiter should be loaded on startup
+  enabled: true
+  
+  # The general spawn limits (natural spawning)
+  # For more information, see http://dev.bukkit.org/server-mods/nolagg/pages/spawn-limits-nolagg/
+  spawnlimits:
+    # The default spawn limits per world, overridden by world limits
+    default:
+      mob: 800
+      cow: 60
+      item: 1500
+      creepers: 30
+      monsters: 400
+    # The world-specific spawn limits
+    worlds:
+      world1:
+        monsters: 300
+      world2:
+        chickens: 30
+    # The global spawn limits
+    global:
+      mobs: 3000
+  
+  # The spawn limits for mob spawners
+  # For more information, see http://dev.bukkit.org/server-mods/nolagg/pages/spawn-limits-nolagg/
+  mobSpawnerLimits:
+    # The default spawn limits per world, overridden by world limits
+    default:
+      mob: 300
+      zombie: 30
+    # The world-specific spawn limits
+    worlds:
+      world3:
+        cavespider: 0
+      creativeworld:
+        mob: 0
+    # The global spawn limits
+    global:
+      mob: 1000
+
+# Replaces explosion creation with a faster version and buffers TNT ignites to prevent TNT server crashes
+tnt:
+  # Whether TNT should be loaded on startup
+  enabled: true
+  # The interval (in ticks) at which TNT is detonated by explosions
+  detonationInterval: 1
+  # How many TNT is detonated by explosions per interval
+  detonationRate: 10
+  # The explosion crater size factor
+  explosionRadiusFactor: 1.0
+  # The amount of explosion packets to send to the clients per tick
+  explosionRate: 5
+  # If TNT explosions can change non-TNT blocks
+  changeBlocks: true
+
+# Alters the way worlds are saved to reduce disk usage and to force proper saves
+saving:
+  # Whether Saving should be loaded on startup
+  enabled: true
+  # The tick interval at which the server saves automatically (20 ticks = 1 second)
+  autoSaveInterval: 400
+  # Whether NoLagg will attempt to write all world data to the region files at a set interval
+  # This is done on another thread, so don't worry about the main thread lagging while this happens
+  writeDataEnabled: true
+  # The tick interval at which the server actually writes the chunk data to file (20 ticks = 1 second)
+  writeDataInterval: 12000
+
+# Common features such as the clear and garbage collect commands
+common:
+  # Whether Common should be loaded on startup
+  enabled: true
+  
+  # Several shortcuts you can use for the /nolagg clear(all) command
+  clearShortcuts:
+    enemies:
+    - monster
+    notneutral:
+    - monster
+    - item
+    - tnt
+    - egg
+    - arrow
+

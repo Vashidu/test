@@ -1,0 +1,32 @@
+timestamps:
+  login: 1335411368821
+  logout: 1335411484905
+  lastteleport: 1335411375893
+  mute: 0
+  lastheal: 1334491086505
+  jail: 0
+ipAddress: 68.7.83.34
+lastlocation:
+  world: world
+  x: 2863.764826244493
+  y: 68.0
+  z: 597.1250152906117
+  yaw: -104.15036
+  pitch: 26.002733
+powertools:
+  '272':
+  - kittycannon
+  '268':
+  - kittycannon
+  '290':
+  - lightning
+nickname: Blue
+socialspy: true
+godmode: true
+money: 1.0735107E7
+afk: false
+ban:
+  reason: DERP
+  timeout: 0
+muted: false
+jailed: false

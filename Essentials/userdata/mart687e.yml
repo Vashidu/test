@@ -1,0 +1,29 @@
+timestamps:
+  login: 1338438309788
+  logout: 1338439571408
+  lastteleport: 1338439036548
+  lastheal: 1335278314941
+  mute: 0
+ipAddress: 80.63.221.7
+lastlocation:
+  world: world
+  x: 674.9818501358736
+  y: 65.0
+  z: -1963.8870561287038
+  yaw: 351.24255
+  pitch: 3.5989838
+ban:
+  reason: ''
+nickname: Mart
+homes:
+  home:
+    world: world
+    x: 794.6955922110585
+    y: 66.0
+    z: -1829.699999988079
+    yaw: 47.553345
+    pitch: -84.401985
+money: 296.0
+godmode: false
+socialspy: true
+muted: false

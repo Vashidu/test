@@ -1,0 +1,29 @@
+timestamps:
+  login: 1340746835792
+  lastteleport: 1340746799443
+  logout: 1340746884262
+  lastheal: 1340391621983
+  mute: 0
+ipAddress: 184.160.13.199
+lastlocation:
+  world: world
+  x: -582.9129449113433
+  y: 13.0
+  z: -345.89271423574263
+  yaw: -35.003323
+  pitch: 48.453358
+homes:
+  home:
+    world: world
+    x: 2974.788837236583
+    y: 72.5
+    z: 285.34107288611074
+    yaw: -358.30502
+    pitch: 20.401741
+nickname: §1B§2r§3E§4n§5D§6a§9N
+money: 459479.0
+godmode: false
+muted: false
+ban:
+  reason: test
+  timeout: 0

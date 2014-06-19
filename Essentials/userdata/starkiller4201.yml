@@ -1,0 +1,23 @@
+timestamps:
+  login: 1340744806596
+  lastteleport: 1340745102390
+  logout: 1340745143565
+ipAddress: 67.87.140.168
+lastlocation:
+  world: world
+  x: -24.602024534368546
+  y: 64.0
+  z: -89.60638891890554
+  yaw: 41.664444
+  pitch: 25.174988
+money: 295.0
+homes:
+  home:
+    world: world
+    x: -28.56766964514881
+    y: 64.0
+    z: -88.57074880519919
+    yaw: 272.84744
+    pitch: 12.997017
+ban:
+  reason: Lieing about donating is not accepting

@@ -1,0 +1,25 @@
+timestamps:
+  login: 1338683493017
+  logout: 1338683497109
+  lastteleport: 1338682907760
+  mute: 0
+ipAddress: 151.213.54.2
+lastlocation:
+  world: world
+  x: 1507.986729830376
+  y: 64.0
+  z: 261.2637195820563
+  yaw: 14.236003
+  pitch: 39.322384
+money: 203560.0
+homes:
+  home:
+    world: world
+    x: 2619.927931068714
+    y: 48.0
+    z: 3323.71966114772
+    yaw: -180.57507
+    pitch: 2.399999
+ban:
+  reason: Pay 110$ to the server.
+muted: false

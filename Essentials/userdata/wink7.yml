@@ -1,0 +1,23 @@
+timestamps:
+  login: 1338440388607
+  lastteleport: 1338441172879
+  logout: 1338441730517
+ipAddress: 72.25.33.11
+lastlocation:
+  world: world
+  x: -94.5410243857876
+  y: 77.5
+  z: 405.1928144131843
+  yaw: -174.24803
+  pitch: 12.700254
+homes:
+  home:
+    world: world
+    x: 2620.049938859883
+    y: 48.0
+    z: 3322.983190131519
+    yaw: 1.5218201
+    pitch: 8.250042
+money: 341844.75000000023
+ban:
+  reason: Claiming in spawn

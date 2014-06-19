@@ -1,0 +1,26 @@
+timestamps:
+  login: 1338608125510
+  lastteleport: 1338608177033
+  logout: 1338608188543
+  mute: 0
+ipAddress: 74.32.248.250
+lastlocation:
+  world: world
+  x: -60.616663653705466
+  y: 79.0
+  z: 428.74569062463473
+  yaw: 21.779999
+  pitch: 5.529628
+homes:
+  home:
+    world: world
+    x: 3626.738329819484
+    y: 63.0
+    z: 2131.417996287175
+    yaw: -1.1281476
+    pitch: 3.7365181
+money: 222.0
+muted: false
+ban:
+  reason: Temporarily banned from server for  3 days
+  timeout: 0

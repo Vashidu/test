@@ -1,0 +1,28 @@
+timestamps:
+  login: 1340205517394
+  lastteleport: 1340205573998
+  logout: 1340205779045
+ipAddress: 69.156.11.55
+lastlocation:
+  world: world
+  x: 3293.1350694818875
+  y: 67.0
+  z: 237.24699133384195
+  yaw: -144.08398
+  pitch: 6.600008
+homes:
+  home:
+    world: world
+    x: 2915.226706033869
+    y: 66.00000000000003
+    z: 2539.656354136009
+    yaw: -128.04199
+    pitch: 30.749973
+money: 1.00076424E8
+nickname: Thunder_Nova_Builder
+godmode: false
+ban:
+  reason: ''
+socialspy: true
+mail:
+- 'Server: stop pasting things. we only allow you to paste things when we need it'

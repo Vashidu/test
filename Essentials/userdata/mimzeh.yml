@@ -1,0 +1,28 @@
+timestamps:
+  login: 1335149409537
+  lastteleport: 1335150642524
+  logout: 1335150798956
+  jail: 1395150713020
+  mute: 0
+ipAddress: 174.112.49.134
+lastlocation:
+  world: world
+  x: 1487.2401347062648
+  y: 70.0
+  z: 194.1983469312704
+  yaw: 153.88823
+  pitch: 9.155987
+homes:
+  home:
+    world: world
+    x: 3520.746652852054
+    y: 63.0
+    z: -993.2630989352496
+    yaw: -319.21204
+    pitch: 6.4500623
+godmode: false
+money: 263325.0
+nickname: §5Mimzeh
+jailed: true
+muted: true
+jail: jail

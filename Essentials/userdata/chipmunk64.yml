@@ -1,0 +1,22 @@
+timestamps:
+  login: 1337148998994
+  logout: 1337149212615
+ipAddress: 173.35.162.47
+lastlocation:
+  world: world
+  x: -45.5
+  y: 121.62000000476837
+  z: 430.5
+  yaw: 0.0
+  pitch: 0.0
+money: 50.0
+homes:
+  home:
+    world: world
+    x: 225.78801558873272
+    y: 62.0
+    z: 290.0130014910418
+    yaw: 289.6518
+    pitch: 2.6999767
+ban:
+  reason: Asking For OP to kill yourself? Try And Appeal on Forums

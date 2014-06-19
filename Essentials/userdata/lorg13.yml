@@ -1,0 +1,22 @@
+timestamps:
+  login: 1336595826592
+  lastteleport: 1336596716142
+  logout: 1336596768635
+ipAddress: 184.56.189.172
+lastlocation:
+  world: world
+  x: 3839.465207831228
+  y: 62.99
+  z: 585.0042479410604
+  yaw: -143.76053
+  pitch: 13.3733
+homes:
+  home:
+    world: world
+    x: 3873.618218259227
+    y: 118.0
+    z: 478.02451448567786
+    yaw: -264.86816
+    pitch: 49.817696
+ban:
+  reason: 'Nice Client Bro: Appeal At forums.'

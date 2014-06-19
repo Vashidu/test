@@ -1,0 +1,26 @@
+timestamps:
+  login: 1335346923550
+  logout: 1335347867898
+  lastteleport: 1335347599204
+  jail: 0
+  mute: 0
+ipAddress: 58.164.103.186
+lastlocation:
+  world: world
+  x: 794.0044556553494
+  y: 67.0
+  z: -2007.2200390029584
+  yaw: 87.91757
+  pitch: 8.313588
+money: 0.0
+homes:
+  home:
+    world: world
+    x: 3091.627078214036
+    y: 71.87380380545446
+    z: 376.13889282851585
+    yaw: -353.43347
+    pitch: 28.158314
+nickname: §6I§2m§6S§2p§6a§2s§6h
+jailed: false
+muted: false

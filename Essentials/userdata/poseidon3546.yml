@@ -1,0 +1,25 @@
+timestamps:
+  login: 1337813074296
+  lastteleport: 1337772405963
+  logout: 1337813244695
+  jail: 0
+ipAddress: 166.127.159.109
+lastlocation:
+  world: world
+  x: 3015.4543171586897
+  y: 10.0
+  z: 2853.699999988079
+  yaw: -143.76611
+  pitch: -14.699994
+homes:
+  home:
+    world: world
+    x: 2990.183018918629
+    y: 8.0
+    z: 2822.836898659735
+    yaw: -50.61618
+    pitch: 34.64999
+money: 677.0
+jailed: false
+ban:
+  reason: Dont Lie about Donations.

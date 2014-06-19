@@ -1,0 +1,27 @@
+timestamps:
+  login: 1338533626141
+  lastteleport: 1338182793097
+  logout: 1338533661527
+  mute: 0
+  jail: 0
+ipAddress: 83.243.131.11
+lastlocation:
+  world: world
+  x: 1281.217142856972
+  y: 63.0
+  z: -561.8043591524569
+  yaw: 107.3259
+  pitch: 32.100002
+homes:
+  home:
+    world: world
+    x: 1244.4093935140158
+    y: 67.0
+    z: -651.6188743568415
+    yaw: -335.0255
+    pitch: 48.000004
+money: 340.0
+muted: false
+jailed: false
+ban:
+  reason: lol

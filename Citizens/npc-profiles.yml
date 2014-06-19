@@ -1,0 +1,502 @@
+'0':
+  basic:
+    name: vashidu
+    look-when-close: 'true'
+    color: f
+    items: 283:0,310:0,311:0,312:0,313:0,
+    location: world,-57.51080797511496,77.0,430.3876126598297,-140.4934,64.3753
+    owner: vashidu
+    balance: '0.0'
+    inventory: 283/1/0,AIR*35,
+    talk: 'true'
+    talk-when-close: 'false'
+'1':
+  basic:
+    talk: 'true'
+    inventory: AIR*36,
+    name: TryHarderNinja
+    color: f
+    location: world,-48.69999998807907,81.5,427.0498403828302,-88.08334,10.2
+    owner: TryHarderNinja
+    balance: '0.0'
+    talk-when-close: 'false'
+    items: 0:0,0:0,0:0,0:0,0:0,
+    look-when-close: 'true'
+'12':
+  basic:
+    talk-when-close: 'false'
+    look-when-close: 'true'
+    location: world,3719.541515797973,59.0,-1021.4391834165519,-191.36304,-12.449905
+    owner: dauphin327
+    name: Israphel
+    talk: 'true'
+    balance: '0.0'
+    color: f
+    items: 0:0,0:0,0:0,0:0,0:0,
+    inventory: AIR*36,
+'10':
+  basic:
+    location: world,3718.8172473345594,63.0,-1020.3637520547534,-213.56494,12.450055
+    color: f
+    balance: '0.0'
+    name: Honeydew
+    items: 0:0,0:0,0:0,0:0,0:0,
+    inventory: AIR*36,
+    owner: dauphin327
+    talk-when-close: 'false'
+    look-when-close: 'true'
+    talk: 'true'
+'13':
+  basic:
+    owner: dauphin327
+    talk-when-close: 'false'
+    location: world,3715.6563049906827,58.0,-1021.4653022357229,-90.26318,12.600095
+    look-when-close: 'true'
+    name: Creeper_Boss
+    inventory: AIR*36,
+    balance: '0.0'
+    color: f
+    items: 0:0,0:0,0:0,0:0,0:0,
+    talk: 'true'
+'11':
+  basic:
+    owner: dauphin327
+    talk: 'true'
+    talk-when-close: 'false'
+    inventory: AIR*36,
+    look-when-close: 'true'
+    name: Xephos
+    location: world,3716.780279796776,63.0,-1024.541380501796,-25.466309,12.750058
+    balance: '0.0'
+    items: 0:0,0:0,0:0,0:0,0:0,
+    color: f
+'14':
+  basic:
+    name: Zombie_Boss
+    talk: 'true'
+    location: world,3717.159576920478,57.5,-1021.8049087749898,-90.26318,12.600095
+    owner: dauphin327
+    look-when-close: 'true'
+    items: 0:0,0:0,0:0,0:0,0:0,
+    talk-when-close: 'false'
+    inventory: AIR*36,
+    balance: '0.0'
+    color: f
+'15':
+  basic:
+    talk: 'true'
+    owner: dauphin327
+    talk-when-close: 'false'
+    name: jeb_
+    inventory: AIR*36,
+    color: f
+    balance: '0.0'
+    items: 0:0,0:0,0:0,0:0,0:0,
+    location: world,3638.699999988079,63.0,-1048.7302690107053,108.484924,7.795393E-5
+    look-when-close: 'true'
+'22':
+  basic:
+    balance: '0.0'
+    items: 0:0,0:0,0:0,0:0,0:0,
+    talk: 'true'
+    name: Notch
+    owner: dauphin327
+    color: f
+    look-when-close: 'true'
+    talk-when-close: 'false'
+    location: world,3315.385693921037,1.0,-431.51583847149516,-181.54602,17.09997
+    inventory: AIR*36,
+'25':
+  basic:
+    name: Thunder_Nova
+    look-when-close: 'true'
+    inventory: AIR*36,
+    talk: 'true'
+    talk-when-close: 'false'
+    items: 0:0,0:0,0:0,0:0,0:0,
+    location: world,3315.4464256283472,1.0,-439.6944512268941,-0.058532715,4.350103
+    owner: dauphin327
+    color: f
+    balance: '0.0'
+'24':
+  basic:
+    items: 276:0,310:0,311:0,312:0,313:0,
+    talk: 'true'
+    name: 4ty
+    color: f
+    talk-when-close: 'false'
+    balance: '0.0'
+    location: world,3319.5872470878066,1.0,-435.49498820174546,-269.0089,8.249971
+    inventory: 276/1/0,AIR*35,
+    look-when-close: 'true'
+    owner: dauphin327
+'23':
+  basic:
+    items: 0:0,0:0,0:0,0:0,0:0,
+    name: jeb_
+    location: world,3311.3186378101004,1.0,-435.60910624188136,-88.55859,19.500095
+    look-when-close: 'true'
+    talk: 'true'
+    owner: dauphin327
+    talk-when-close: 'false'
+    color: f
+    inventory: AIR*36,
+    balance: '0.0'
+'17':
+  basic:
+    waypoints:
+      '18':
+        delay: '0'
+        location: world,3292.0,63.0,219.0,0.0,0.0
+      '17':
+        location: world,3295.0,63.0,217.0,0.0,0.0
+        delay: '0'
+      '36':
+        location: world,3290.0,63.0,201.0,0.0,0.0
+        delay: '0'
+      '33':
+        location: world,3296.0,63.0,205.0,0.0,0.0
+        delay: '0'
+      '28':
+        delay: '0'
+        location: world,3297.0,64.0,214.0,0.0,0.0
+      '30':
+        location: world,3294.0,63.0,210.0,0.0,0.0
+        delay: '0'
+      '12':
+        delay: '0'
+        location: world,3291.0,63.0,207.0,0.0,0.0
+      '20':
+        delay: '0'
+        location: world,3297.0,63.0,219.0,0.0,0.0
+      '37':
+        location: world,3294.0,63.0,200.0,0.0,0.0
+        delay: '0'
+      '1':
+        location: world,3291.0,63.0,193.0,0.0,0.0
+        delay: '0'
+      '10':
+        delay: '0'
+        location: world,3287.0,63.0,207.0,0.0,0.0
+      '13':
+        delay: '0'
+        location: world,3290.0,63.0,210.0,0.0,0.0
+      '22':
+        delay: '0'
+        location: world,3297.0,64.0,216.0,0.0,0.0
+      '16':
+        delay: '0'
+        location: world,3295.0,63.0,213.0,0.0,0.0
+      '27':
+        delay: '0'
+        location: world,3297.0,63.0,215.0,0.0,0.0
+      '34':
+        location: world,3294.0,63.0,204.0,0.0,0.0
+        delay: '0'
+      '9':
+        delay: '0'
+        location: world,3289.0,63.0,204.0,0.0,0.0
+      '32':
+        location: world,3296.0,63.0,207.0,0.0,0.0
+        delay: '0'
+      '8':
+        delay: '0'
+        location: world,3284.0,63.0,204.0,0.0,0.0
+      '11':
+        delay: '0'
+        location: world,3288.0,63.0,206.0,0.0,0.0
+      '26':
+        location: world,3297.0,64.0,215.0,0.0,0.0
+        delay: '0'
+      '5':
+        delay: '0'
+        location: world,3289.0,63.0,198.0,0.0,0.0
+      '35':
+        delay: '0'
+        location: world,3292.0,63.0,202.0,0.0,0.0
+      '38':
+        delay: '0'
+        location: world,3289.0,63.0,207.0,0.0,0.0
+      '3':
+        location: world,3287.0,63.0,195.0,0.0,0.0
+        delay: '0'
+      '23':
+        location: world,3297.0,63.0,216.0,0.0,0.0
+        delay: '0'
+      '19':
+        location: world,3294.0,63.0,222.0,0.0,0.0
+        delay: '0'
+      '7':
+        delay: '0'
+        location: world,3289.0,63.0,200.0,0.0,0.0
+      '31':
+        location: world,3292.0,63.0,209.0,0.0,0.0
+        delay: '0'
+      '21':
+        location: world,3297.0,63.0,218.0,0.0,0.0
+        delay: '0'
+      '14':
+        location: world,3292.0,63.0,210.0,0.0,0.0
+        delay: '0'
+      '2':
+        delay: '0'
+        location: world,3289.0,63.0,194.0,0.0,0.0
+      '24':
+        location: world,3297.0,64.0,217.0,0.0,0.0
+        delay: '0'
+      '6':
+        delay: '0'
+        location: world,3286.0,63.0,200.0,0.0,0.0
+      '15':
+        delay: '0'
+        location: world,3291.0,63.0,212.0,0.0,0.0
+      '0':
+        delay: '0'
+        location: world,3293.0,63.0,194.0,0.0,0.0
+      '29':
+        delay: '0'
+        location: world,3297.0,63.0,214.0,0.0,0.0
+      '4':
+        location: world,3285.0,63.0,197.0,0.0,0.0
+        delay: '0'
+      '25':
+        location: world,3297.0,63.0,217.0,0.0,0.0
+        delay: '0'
+    inventory: AIR*36,
+    look-when-close: 'true'
+    name: IceSkater
+    talk-when-close: 'false'
+    location: world,3292.190483601132,63.0,198.0527172485986,-71.71655,31.18629
+    talk: 'true'
+    balance: '0.0'
+    items: 0:0,0:0,0:0,0:0,0:0,
+    owner: dauphin327
+    color: f
+'18':
+  basic:
+    waypoints:
+      '5':
+        delay: '0'
+        location: world,3314.0,75.0,213.0,0.0,0.0
+      '2':
+        delay: '0'
+        location: world,3311.0,74.0,221.0,0.0,0.0
+      '4':
+        location: world,3317.0,77.0,210.0,0.0,0.0
+        delay: '0'
+      '6':
+        delay: '0'
+        location: world,3308.0,67.0,216.0,0.0,0.0
+      '3':
+        location: world,3317.0,77.0,219.0,0.0,0.0
+        delay: '0'
+      '0':
+        delay: '0'
+        location: world,3308.0,70.0,219.0,0.0,0.0
+      '1':
+        delay: '0'
+        location: world,3308.0,71.0,220.0,0.0,0.0
+    look-when-close: 'true'
+    inventory: 292/1/0,AIR*35,
+    name: Hiker
+    balance: '0.0'
+    location: world,3308.689116714524,66.0,214.97056838766733,-72.30298,19.05002
+    color: f
+    owner: Thunder_Nova
+    talk: 'true'
+    talk-when-close: 'false'
+    items: 292:0,298:0,299:0,300:0,305:0,
+'19':
+  basic:
+    inventory: 276/1/0,AIR*35,
+    talk: 'true'
+    balance: '0.0'
+    items: 276:0,310:0,311:0,312:0,313:0,
+    look-when-close: 'true'
+    owner: dauphin327
+    color: f
+    talk-when-close: 'false'
+    name: Captain_America
+    location: world,3268.300000011921,68.0,199.35725317365882,-84.983154,20.74671
+'20':
+  basic:
+    talk: 'true'
+    name: Guard
+    location: world,3278.616730493896,67.0,257.37032486963983,-89.23587,63.606407
+    color: f
+    owner: dauphin327
+    balance: '0.0'
+    inventory: 267/1/0,AIR*35,
+    look-when-close: 'true'
+    talk-when-close: 'false'
+    items: 267:0,0:0,0:0,0:0,0:0,
+'21':
+  basic:
+    items: 267:0,0:0,0:0,0:0,0:0,
+    talk-when-close: 'false'
+    balance: '0.0'
+    color: f
+    look-when-close: 'true'
+    talk: 'true'
+    location: world,3278.300000011921,67.0,261.5033833901258,-87.77991,53.521564
+    owner: dauphin327
+    name: Guard
+    inventory: 267/1/0,AIR*35,
+'35':
+  basic:
+    name: XxXNer0XxX
+    location: world,-44.947727940535096,81.5,430.69999998807907,179.10016,3.1500056
+    color: f
+    inventory: AIR*36,
+    look-when-close: 'true'
+    balance: '0.0'
+    talk-when-close: 'false'
+    items: 0:0,0:0,0:0,0:0,0:0,
+    owner: TryHarderNinja
+    talk: 'true'
+'36':
+  basic:
+    talk: 'true'
+    location: world,1011.8333657104274,4.0,500.69999998807896,-152.42273,17.87788
+    color: f
+    items: 0:0,0:0,0:0,0:0,0:0,
+    talk-when-close: 'false'
+    look-when-close: 'true'
+    balance: '0.0'
+    name: Herobrine
+    inventory: AIR*36,
+    owner: dauphin327
+'2':
+  basic:
+    name: Nolan901
+    color: f
+    balance: '0.0'
+    inventory: 122/1/0,AIR*35,
+    items: 122:0,0:0,0:0,0:0,0:0,
+    location: world,-45.13449450637341,81.5,423.3044202976927,-359.67307,12.989531
+    talk-when-close: 'false'
+    talk: 'true'
+    look-when-close: 'true'
+    owner: Nolan901
+'16':
+  basic:
+    look-when-close: 'true'
+    location: world,3303.8452793808333,62.0,202.30000001192093,95.145996,26.849949
+    talk: 'true'
+    owner: Thunder_Nova
+    balance: '0.0'
+    color: f
+    items: 0:0,0:0,0:0,0:0,0:0,
+    talk-when-close: 'false'
+    inventory: AIR*36,
+    name: Mr.Fluffy
+'37':
+  basic:
+    balance: '0.0'
+    location: world,1140.300000011921,65.0,561.4621154614068,-167.04486,90.0
+    talk: 'true'
+    items: 0:0,0:0,0:0,0:0,0:0,
+    look-when-close: 'true'
+    owner: Nolan901
+    name: Prisoner
+    inventory: AIR*36,
+    talk-when-close: 'false'
+    color: f
+'38':
+  basic:
+    name: Aventurer
+    location: world,1183.7814539752094,67.0,589.1798824058957,309.34702,34.69474
+    text: Watch out for the CC Enforcers, they are killing everyone!
+    balance: '1000.0'
+    inventory: 267/1/0,AIR*35,
+    items: 267:0,0:0,299:0,0:0,0:0,
+    owner: Nolan901
+    look-when-close: 'true'
+    talk-when-close: 'true'
+    color: f
+    talk: 'true'
+'39':
+  basic:
+    waypoints:
+      '4':
+        location: world,3269.0,68.0,194.0,0.0,0.0
+        delay: '0'
+      '1':
+        delay: '0'
+        location: world,3277.0,68.0,197.0,0.0,0.0
+      '0':
+        location: world,3275.0,68.0,197.0,0.0,0.0
+        delay: '0'
+      '2':
+        delay: '0'
+        location: world,3274.0,68.0,193.0,0.0,0.0
+      '7':
+        delay: '0'
+        location: world,3275.0,68.0,198.0,0.0,0.0
+      '5':
+        delay: '0'
+        location: world,3275.0,68.0,201.0,0.0,0.0
+      '3':
+        delay: '0'
+        location: world,3269.0,68.0,192.0,0.0,0.0
+      '6':
+        delay: '0'
+        location: world,3278.0,68.0,199.0,0.0,0.0
+    look-when-close: 'true'
+    inventory: AIR*36,
+    name: deadmau5
+    balance: '0.0'
+    talk-when-close: 'false'
+    color: f
+    owner: dauphin327
+    talk: 'true'
+    items: 0:0,0:0,0:0,0:0,0:0,
+    location: world,3272.34649787568,68.0,197.37508586847542,-338.18262,14.296714
+'3':
+  basic:
+    color: f
+    look-when-close: 'true'
+    items: 261:0,302:0,303:0,304:0,305:0,
+    talk: 'true'
+    inventory: 261/1/0,AIR*35,
+    owner: TryHarderNinja
+    balance: '0.0'
+    location: world,-98.7194372226748,63.0,-129.30000001192093,-181.65437,-3.449942
+    talk-when-close: 'false'
+    name: 4ty
+'4':
+  basic:
+    name: 4ty
+    balance: '0.0'
+    talk-when-close: 'false'
+    location: world,2837.519578447853,154.28826918367744,1189.431040163159,270.1619,64.19999
+    owner: 4ty
+    items: 0:0,0:0,0:0,0:0,0:0,
+    talk: 'true'
+    color: f
+    inventory: AIR*36,
+    look-when-close: 'true'
+'5':
+  basic:
+    location: world,2799.006390447078,133.0,1191.0125821081954,-89.02174,71.84999
+    owner: 4ty
+    look-when-close: 'true'
+    color: f
+    items: 0:0,0:0,0:0,0:0,0:0,
+    inventory: AIR*36,
+    talk-when-close: 'false'
+    balance: '0.0'
+    talk: 'true'
+    name: 4ty
+'6':
+  basic:
+    talk: 'true'
+    look-when-close: 'true'
+    location: world,2806.5097755396973,179.0,1172.300000011921,180.37819,81.45002
+    balance: '0.0'
+    color: f
+    name: 4ty
+    owner: 4ty
+    inventory: AIR*36,
+    items: 0:0,0:0,0:0,0:0,0:0,
+    talk-when-close: 'false'

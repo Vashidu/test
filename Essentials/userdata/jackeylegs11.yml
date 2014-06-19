@@ -1,0 +1,25 @@
+timestamps:
+  login: 1338680101771
+  lastteleport: 1338680112402
+  logout: 1338680158178
+  mute: 0
+ipAddress: 108.82.69.201
+lastlocation:
+  world: world_nether
+  x: 612.1084264889892
+  y: 46.0
+  z: -34.110533866338415
+  yaw: 154.84193
+  pitch: 24.867346
+homes:
+  home:
+    world: world_nether
+    x: 629.6856884497666
+    y: 79.0
+    z: 0.35552752294746226
+    yaw: -12.051422
+    pitch: 7.342651
+muted: false
+money: 920.0
+ban:
+  reason: xray

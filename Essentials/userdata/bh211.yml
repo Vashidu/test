@@ -1,0 +1,24 @@
+timestamps:
+  login: 1340762479023
+  lastteleport: 1338687116153
+  logout: 1340762543861
+  mute: 0
+ipAddress: 67.216.11.203
+lastlocation:
+  world: world
+  x: 91.50658591485583
+  y: 64.38172773251732
+  z: 521.5043415242726
+  yaw: -25.0497
+  pitch: 24.60001
+homes:
+  home:
+    world: world
+    x: 2617.8393699331637
+    y: 77.0
+    z: 239.52559448133456
+    yaw: 91.64682
+    pitch: -3.29983
+money: 52133.0
+nickname: §4BH211
+muted: false

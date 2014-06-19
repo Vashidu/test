@@ -1,0 +1,30 @@
+timestamps:
+  login: 1336085303879
+  lastteleport: 1336074755065
+  logout: 1336085366520
+  lastheal: 1334394151086
+  mute: 0
+ipAddress: 70.73.14.226
+lastlocation:
+  world: world
+  x: 3606.803607522313
+  y: 70.0
+  z: -1168.6495121267042
+  yaw: 31.25895
+  pitch: 28.04996
+socialspy: true
+money: 305718.0
+homes:
+  home:
+    world: world
+    x: 4338.009244387296
+    y: 111.0
+    z: -610.1362263238095
+    yaw: -277.0601
+    pitch: 66.75002
+godmode: false
+nickname: §3Ferggil
+muted: false
+ban:
+  reason: Advertising
+  timeout: 0

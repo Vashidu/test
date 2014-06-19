@@ -1,0 +1,23 @@
+timestamps:
+  login: 1338669942582
+  lastteleport: 1338542338851
+  logout: 1338670524001
+ipAddress: 68.32.14.122
+lastlocation:
+  world: world
+  x: 2749.829374190342
+  y: 68.0
+  z: 1346.8253142356614
+  yaw: -114.53368
+  pitch: 32.400024
+godmode: true
+homes:
+  home:
+    world: world
+    x: 2735.321451274511
+    y: 64.0
+    z: 1365.5303153499044
+    yaw: -347.18268
+    pitch: 25.799976
+nickname: §5fanuni
+money: 12433.0

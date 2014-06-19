@@ -1,0 +1,23 @@
+timestamps:
+  login: 1335493421787
+  lastteleport: 1335493538786
+  logout: 1335493674068
+ipAddress: 108.80.228.172
+lastlocation:
+  world: world
+  x: -4141.136260109445
+  y: 70.0
+  z: 1558.99610392838
+  yaw: -245.93706
+  pitch: 33.18349
+money: 4783.0
+homes:
+  home:
+    world: world
+    x: -4140.46873175383
+    y: 72.0
+    z: 1558.1785532246624
+    yaw: -246.41943
+    pitch: 56.700096
+ban:
+  reason: Spam-Bot program is not allowed.

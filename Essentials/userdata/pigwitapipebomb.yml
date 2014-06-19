@@ -1,0 +1,44 @@
+timestamps:
+  login: 1337583158590
+  lastteleport: 1337583996744
+  logout: 1337584361156
+  lastheal: 1337233002209
+  mute: 0
+  jail: 0
+ipAddress: 67.166.220.207
+lastlocation:
+  world: world
+  x: 1390.6038187773506
+  y: 59.67213929499038
+  z: 3405.1367102197983
+  yaw: 287.42538
+  pitch: -76.04997
+homes:
+  home:
+    world: world
+    x: 1422.408930244068
+    y: 170.0
+    z: 3413.1788147545385
+    yaw: 268.3756
+    pitch: 0.14998211
+godmode: true
+ban:
+  reason: i warned you
+  timeout: 0
+money: 9.9999999988E12
+socialspy: true
+muted: false
+jailed: false
+powertools:
+  '40':
+  - fireball
+  '18':
+  - kittycannon
+  '52':
+  - kill mckeev
+  '6':
+  - vanish
+afk: false
+teleportenabled: false
+unlimited: []
+nickname: §5§k9§6§k9§1§lE§2§lv§3§la§4§ln§5§k9§6§k9

@@ -1,0 +1,27 @@
+timestamps:
+  login: 1341096734102
+  lastteleport: 1341097478699
+  logout: 1341097500459
+  lastheal: 1341077444443
+  mute: 0
+ipAddress: 75.0.186.27
+lastlocation:
+  world: world
+  x: 1011.8592978327426
+  y: 75.0
+  z: 221.6601526136558
+  yaw: -294.47998
+  pitch: 26.69936
+money: 74.78999999999986
+homes:
+  home:
+    world: world
+    x: 1013.657756031122
+    y: 75.0
+    z: 217.96543874274843
+    yaw: -317.65442
+    pitch: 16.185015
+godmode: true
+ban:
+  reason: ''
+muted: false

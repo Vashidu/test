@@ -1,0 +1,23 @@
+timestamps:
+  login: 1337385803775
+  lastteleport: 1337390580573
+  logout: 1337390700246
+ipAddress: 2.223.5.201
+lastlocation:
+  world: world
+  x: 2140.544612923388
+  y: 21.0
+  z: 727.4698578066732
+  yaw: -24.425398
+  pitch: 70.950005
+homes:
+  home:
+    world: world
+    x: 2128.300000011921
+    y: 54.0
+    z: 724.3142004650184
+    yaw: -89.825325
+    pitch: 15.749945
+money: 77250.0
+ban:
+  reason: Dumbass

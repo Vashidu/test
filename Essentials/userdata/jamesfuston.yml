@@ -1,0 +1,23 @@
+timestamps:
+  login: 1335352727912
+  lastteleport: 1335356624632
+  logout: 1335356622899
+ipAddress: 76.18.179.34
+lastlocation:
+  world: world
+  x: 3566.5069568144963
+  y: 64.0
+  z: -1246.1562903169156
+  yaw: -352.9378
+  pitch: 26.399824
+homes:
+  home:
+    world: world
+    x: 3873.781665545318
+    y: 65.0
+    z: -2812.268454126959
+    yaw: -2.0004034
+    pitch: 14.2696085
+money: 116983.0
+ban:
+  reason: for grifing

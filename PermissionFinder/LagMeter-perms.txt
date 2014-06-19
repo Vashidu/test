@@ -1,0 +1,5 @@
+---------- Permission nodes for LagMeter ----------
+lagmeter.* - Gives full access
+lagmeter.command.lag - Gives access to the /lag command
+lagmeter.command.mem - Gives access to the /mem command
+lagmeter.command.lagmem - Gives access to the combination /lagmem command

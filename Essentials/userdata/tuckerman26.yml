@@ -1,0 +1,25 @@
+timestamps:
+  login: 1338135900804
+  lastteleport: 1338050308829
+  logout: 1338135942410
+  mute: 0
+ipAddress: 94.1.110.188
+lastlocation:
+  world: world
+  x: 1.989290777428205
+  y: 77.0
+  z: 378.70881408209567
+  yaw: -135.5481
+  pitch: 5.3502517
+money: 8937.0
+homes:
+  home:
+    world: world
+    x: 929.0733663458899
+    y: 71.0
+    z: 1576.522341767942
+    yaw: 193.21045
+    pitch: 31.499994
+muted: false
+ban:
+  reason: spamspamspamspam 24 hr ban expires 3:49 28th of may

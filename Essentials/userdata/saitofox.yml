@@ -1,0 +1,30 @@
+timestamps:
+  login: 1340476434437
+  logout: 1340476468860
+  lastteleport: 1337926278501
+  kits:
+    gladiator: 1334880958434
+  lastheal: 1335124614953
+ipAddress: 174.118.144.109
+lastlocation:
+  world: world
+  x: -50.685588319161305
+  y: 74.91999998688698
+  z: 485.51500242473827
+  yaw: 125.849976
+  pitch: 29.100002
+homes:
+  home:
+    world: world
+    x: 1710.198441412607
+    y: 69.0
+    z: -1789.9339633283084
+    yaw: -77.34593
+    pitch: 9.000015
+socialspy: true
+nickname: §l§8§kO§r§4Saito§6FOX§l§8§ko
+afk: false
+money: 9.8375052E7
+godmode: false
+ban:
+  reason: ''

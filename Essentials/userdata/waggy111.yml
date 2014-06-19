@@ -1,0 +1,24 @@
+timestamps:
+  login: 1338029123610
+  lastteleport: 1336631623192
+  logout: 1338029340662
+  mute: 0
+ipAddress: 121.218.102.237
+lastlocation:
+  world: world
+  x: -42.5
+  y: 126.62000000476837
+  z: 430.5
+  yaw: 0.0
+  pitch: 0.0
+muted: false
+homes:
+  home:
+    world: world
+    x: -225.62074191694242
+    y: 67.0
+    z: -740.1887443459634
+    yaw: -170.95274
+    pitch: 15.660815
+ban:
+  reason: Your server is horrible.

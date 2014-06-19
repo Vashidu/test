@@ -1,0 +1,24 @@
+timestamps:
+  login: 1338844546489
+  logout: 1338844713279
+  lastteleport: 1338682606720
+  jail: 0
+ipAddress: 206.126.209.6
+lastlocation:
+  world: world
+  x: -99.94964987663764
+  y: 74.0
+  z: 366.6154148372553
+  yaw: 139.03957
+  pitch: -19.884642
+homes:
+  home:
+    world: world
+    x: -666.1845800250406
+    y: 81.0
+    z: 316.1406351370393
+    yaw: 263.4419
+    pitch: 31.578901
+jailed: false
+nickname: icY
+socialspy: true

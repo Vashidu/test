@@ -1,0 +1,26 @@
+timestamps:
+  login: 1338272624241
+  lastteleport: 1336751568500
+  logout: 1338272988192
+ipAddress: 71.7.164.28
+lastlocation:
+  world: world
+  x: -206.2196511682145
+  y: 66.0
+  z: 583.5578588099601
+  yaw: 256.05032
+  pitch: -64.49998
+nickname: MeganP
+homes:
+  home:
+    world: world
+    x: 1975.3864489501714
+    y: 63.5
+    z: 712.0393430719679
+    yaw: 79.825745
+    pitch: 9.149953
+money: 1.0000000007E13
+socialspy: true
+godmode: false
+ban:
+  reason: for placing lava everywhere

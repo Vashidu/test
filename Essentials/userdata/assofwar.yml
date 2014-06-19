@@ -1,0 +1,29 @@
+timestamps:
+  login: 1338535127495
+  lastteleport: 1338018558920
+  logout: 1338535313219
+  lastheal: 1335317394259
+  mute: 0
+ipAddress: 205.197.253.3
+lastlocation:
+  world: world
+  x: -62.59761190080462
+  y: 81.0
+  z: 425.6324033609575
+  yaw: 81.20331
+  pitch: -15.299961
+homes:
+  home:
+    world: world
+    x: 4925.981389948646
+    y: 63.0
+    z: -294.5611900131997
+    yaw: 242.05293
+    pitch: 29.69668
+money: 187.0
+godmode: true
+ban:
+  reason: Temporarily banned from server for  4 days 1 hour 10 minutes 23 seconds
+  timeout: 0
+nickname: §4Ass§50f§4War
+muted: false

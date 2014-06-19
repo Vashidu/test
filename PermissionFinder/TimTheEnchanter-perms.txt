@@ -1,0 +1,4 @@
+---------- Permission nodes for TimTheEnchanter ----------
+enchanter.enchant - Enchant stuff
+enchanter.reload - Reload the enchantment list
+enchanter.dirty - Allow unnatural enchantment levels

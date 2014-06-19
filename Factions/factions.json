@@ -1,0 +1,768 @@
+{
+  "133": {
+    "relationWish": {
+      "129": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Amazing",
+    "description": "Default faction description :(",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "59": {
+    "relationWish": {
+      "12": "ALLY",
+      "65": "ENEMY",
+      "83": "ENEMY",
+      "20": "ENEMY",
+      "21": "ALLY",
+      "16": "ALLY",
+      "129": "ENEMY",
+      "128": "ENEMY",
+      "144": "ENEMY",
+      "135": "ALLY",
+      "154": "ALLY",
+      "155": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "megan1141"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "OpTiCs",
+    "description": "Were Undefited!",
+    "home": {
+      "world": "world",
+      "x": 2975.6436853912846,
+      "y": 65.0,
+      "z": 286.7578678046166,
+      "yaw": -1.9057997465133667,
+      "pitch": 6.989222526550293
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "136": {
+    "relationWish": {
+      "150": "ENEMY",
+      "155": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "TheLoL",
+    "description": "Default faction description :(",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "137": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Raptorca",
+    "description": "BIG BOOBS!",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "179": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Mushroom",
+    "description": "Creepers are for Eating!",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "178": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": true,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "sudon",
+    "description": "Default faction description :(",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "177": {
+    "relationWish": {
+      "157": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "KILLAS",
+    "description": "Default faction description :(",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "159": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "PuRez",
+    "description": "we will CrUsH u",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "16": {
+    "relationWish": {
+      "1": "ALLY",
+      "18": "ALLY",
+      "34": "ALLY",
+      "59": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "ChampCraft",
+    "description": "We love ChampCraft! -Milo",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "176": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [
+      "zictrim"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Champs",
+    "description": "We are the Champs!",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "158": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "BEFAT",
+    "description": "HI",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "157": {
+    "relationWish": {
+      "144": "ALLY",
+      "147": "ALLY",
+      "155": "ALLY",
+      "154": "ALLY",
+      "99": "ALLY",
+      "165": "ALLY",
+      "169": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "headball",
+      "axni125",
+      "walkingbeast"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "TreeGamers",
+    "description": "We hunt you! We cut you! We eat you! We are trees!",
+    "home": {
+      "world": "world",
+      "x": 1611.4778910787825,
+      "y": 63.0,
+      "z": 624.3000000119209,
+      "yaw": 0.4723682403564453,
+      "pitch": 1.202742099761963
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "156": {
+    "relationWish": {
+      "99": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": true,
+    "tag": "Coolsville",
+    "description": "FUCKOFF",
+    "money": 0.0,
+    "permanentPower": 1000000,
+    "powerBoost": 1000000.0
+  },
+  "155": {
+    "relationWish": {
+      "144": "ALLY",
+      "157": "ALLY",
+      "99": "ALLY",
+      "162": "ENEMY",
+      "163": "ALLY",
+      "165": "ALLY",
+      "169": "ALLY",
+      "183": "ENEMY",
+      "164": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "SkyLanders",
+    "description": "WE OWN THE SKY",
+    "home": {
+      "world": "world",
+      "x": 2770.172341433311,
+      "y": 133.0,
+      "z": 1190.73148188303,
+      "yaw": -88.07244873046875,
+      "pitch": 4.740686893463135
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "154": {
+    "relationWish": {
+      "99": "ALLY",
+      "59": "ALLY",
+      "155": "ALLY",
+      "157": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "lilmunn",
+      "liamrox01",
+      "thygoldfishy",
+      "axni125",
+      "krit207"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "night",
+    "description": "we are strong in the night",
+    "home": {
+      "world": "world",
+      "x": 1742.5976306076855,
+      "y": 63.0,
+      "z": 282.30000001192093,
+      "yaw": -5.761082649230957,
+      "pitch": -8.249947547912598
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "170": {
+    "relationWish": {
+      "155": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "jungalers",
+    "description": "We Are The jungal",
+    "home": {
+      "world": "world",
+      "x": -822.6803181607368,
+      "y": 98.0,
+      "z": 383.26611861080613,
+      "yaw": -116.943603515625,
+      "pitch": 26.143352508544922
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "171": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "viper",
+    "description": "mess with the snake and you get bit",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "150": {
+    "relationWish": {
+      "133": "ENEMY",
+      "151": "ALLY",
+      "136": "ALLY",
+      "129": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "kieranhd",
+      "minizicrog",
+      "goosetafon",
+      "remipoi99",
+      "suzeme",
+      "starkiller4201",
+      "irishlad1730",
+      "terrephil",
+      "minka87",
+      "remso1234",
+      "tractoroff24",
+      "raiders104"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "MineCraft",
+    "description": "We Mine For Gold",
+    "home": {
+      "world": "world",
+      "x": 501.6315131489072,
+      "y": 61.0,
+      "z": 159.6889580370926,
+      "yaw": -37.28427505493164,
+      "pitch": 9.60002613067627
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "174": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Fighters",
+    "description": "Default faction description :(",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "175": {
+    "relationWish": {
+      "144": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "coolman908"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "TheNight",
+    "description": "The Day Shall Come",
+    "home": {
+      "world": "world",
+      "x": -568.3000000119209,
+      "y": 24.0,
+      "z": -313.30000001192093,
+      "yaw": 143.3566131591797,
+      "pitch": -2.6999998092651367
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "172": {
+    "relationWish": {
+      "155": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "creeps",
+    "description": "We sneak up behind you and sssssSSSSSS BOOM!",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "173": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "MCHG",
+    "description": "Default faction description :(",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "98": {
+    "relationWish": {
+      "65": "ALLY",
+      "1": "ALLY",
+      "2": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "HandH",
+    "description": "Faction of the builders H&H Industries (jdhumpf and BH211) JOIN TODAY!",
+    "home": {
+      "world": "world",
+      "x": 1678.3540228506877,
+      "y": 74.5,
+      "z": 186.55344135289582,
+      "yaw": 170.2392578125,
+      "pitch": -35.100032806396484
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "143": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "StateFarm",
+    "description": "Like a good neighbor StateFarm is there!",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "144": {
+    "relationWish": {
+      "147": "ALLY",
+      "129": "ALLY",
+      "99": "ALLY",
+      "59": "ALLY",
+      "155": "ALLY",
+      "157": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "thunder_nova",
+      "remipoi99",
+      "coolman908"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Imperials",
+    "description": "We are Imperials of Skyrim!",
+    "home": {
+      "world": "world",
+      "x": -2.4399105648121195,
+      "y": 64.0,
+      "z": -72.58640028122396,
+      "yaw": 176.20655822753906,
+      "pitch": 33.98777770996094
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "169": {
+    "relationWish": {
+      "155": "ALLY",
+      "157": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Aorvu",
+    "description": "Default faction description :(",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "166": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [
+      "antti919"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Miners",
+    "description": "for miners",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "165": {
+    "relationWish": {
+      "155": "ALLY",
+      "157": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "headball"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "MineGaming",
+    "description": "we are miners we are strong who come near us youll be gone!",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "168": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Peaceful",
+    "description": "We don't wanna PVP sometimes",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "167": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "heros",
+    "description": "Default faction description :(",
+    "home": {
+      "world": "world",
+      "x": -2548.9752796959233,
+      "y": 70.0,
+      "z": 4907.3934324426755,
+      "yaw": 76.7952880859375,
+      "pitch": 1.6499981880187988
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "161": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "TeamCookie",
+    "description": "The Cookies is Invading The World!",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "180": {
+    "relationWish": {
+      "155": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "thekillers",
+    "description": "WE ARE DA KILLERS!!!!!",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "181": {
+    "relationWish": {
+      "164": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "fist",
+    "description": "Default faction description :(",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "0": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "§2Wilderness",
+    "description": "",
+    "home": {
+      "world": "world_nether",
+      "x": 272.8100949028898,
+      "y": 141.88477008370953,
+      "z": 136.89023151617508,
+      "yaw": -295.36505126953125,
+      "pitch": 16.050033569335938
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "164": {
+    "relationWish": {
+      "155": "ALLY"
+    },
+    "claimOwnership": {},
+    "invites": [
+      "king_aleks",
+      "horselady23",
+      "awesomefx",
+      "krma"
+    ],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "sexyPandas",
+    "description": "darkone264's livestream faction",
+    "home": {
+      "world": "world",
+      "x": 532.9417114634982,
+      "y": 79.0,
+      "z": 762.4994595135515,
+      "yaw": -200.724609375,
+      "pitch": 6.450016021728516
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "182": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Knights",
+    "description": "We fight, we win, we are the boss!",
+    "home": {
+      "world": "world",
+      "x": 198.3858213409733,
+      "y": 90.0,
+      "z": 192.8131926659492,
+      "yaw": -269.99908447265625,
+      "pitch": 14.999998092651367
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "-2": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "WarZone",
+    "description": "Not the safest place to be",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "-1": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "SafeZone",
+    "description": "Free from PVP and monsters",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "184": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "UnderDogs",
+    "description": "gets rich, has fun, and gets to meat new people and have wars",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "185": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "BigGirl",
+    "description": "How You Doing Big Girl?",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "160": {
+    "relationWish": {
+      "155": "ENEMY"
+    },
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "BOB",
+    "description": "Default faction description :(",
+    "money": 0.0,
+    "powerBoost": 0.0
+  }
+}

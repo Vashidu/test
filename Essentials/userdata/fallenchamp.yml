@@ -1,0 +1,25 @@
+timestamps:
+  login: 1336684965014
+  logout: 1336685017853
+  lastteleport: 1336656057145
+ipAddress: 98.194.112.163
+lastlocation:
+  world: world
+  x: 3859.221624430839
+  y: 71.0
+  z: 320.9076169574495
+  yaw: 213.84552
+  pitch: 2.7002258
+nickname: §4FallenChamp
+homes:
+  home:
+    world: world
+    x: 807.3000000119209
+    y: 64.0
+    z: -1170.571121962205
+    yaw: -248.44304
+    pitch: 6.600016
+afk: false
+powertools:
+  '367':
+  - smite

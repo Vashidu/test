@@ -1,0 +1,22 @@
+timestamps:
+  login: 1338650351854
+  lastteleport: 1338650593749
+  logout: 1338650689424
+ipAddress: 98.196.234.189
+lastlocation:
+  world: world
+  x: 3300.300000011921
+  y: 65.0
+  z: -442.93132097048107
+  yaw: -0.7944983
+  pitch: -1.499999
+homes:
+  home:
+    world: world
+    x: 3678.4515749746474
+    y: 63.0
+    z: -1039.7375234758963
+    yaw: -0.8612366
+    pitch: 5.0999584
+nickname: VoxelFOX
+godmode: false

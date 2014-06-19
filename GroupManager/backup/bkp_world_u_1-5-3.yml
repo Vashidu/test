@@ -1,0 +1,330 @@
+users:
+  MisClumsyyPants:
+    subgroups: []
+    permissions: []
+    group: regular
+  messiboy12:
+    subgroups: []
+    permissions: []
+    group: regular
+  GOOSETAFON:
+    subgroups: []
+    permissions: []
+    group: regular
+  EatYourFood:
+    subgroups: []
+    permissions: []
+    group: LegatusLegioni
+  Ptd33:
+    subgroups: []
+    permissions: []
+    group: regular
+  walnut33:
+    subgroups: []
+    permissions: []
+    group: default
+    info:
+      prefix: '&2[Rank]'
+  Mc_Grammar:
+    subgroups: []
+    permissions: []
+    group: HeadOP
+  LukeJonesWales:
+    subgroups: []
+    permissions: []
+    group: Miltes
+  4ty:
+    subgroups: []
+    permissions:
+    - '*'
+    - timtheenchanter.*
+    group: Hyperion
+    info:
+      timtheenchanter: '*'
+  Drakulah808:
+    subgroups: []
+    permissions: []
+    group: regular
+  awesome_catfish:
+    subgroups: []
+    permissions: []
+    group: regular
+  snowleo:
+    subgroups: []
+    permissions: []
+    group: Builder
+  TryHarderNinja:
+    subgroups: []
+    permissions:
+    - -vanish.nointeract
+    - -Orebfuscator.deobfuscate
+    - vanish.*
+    group: Owner
+    info:
+      prefix: '&0&k(&1&lO&2&lw&3&ln&4&le&5&lr&0&k)'
+      '-': vanish.nointeract
+  mario160:
+    subgroups: []
+    permissions: []
+    group: LegatusLegioni
+  AxNi125:
+    subgroups: []
+    permissions: []
+    group: regular
+  Snublefot2:
+    subgroups: []
+    permissions: []
+    group: Miltes
+  carboy301:
+    subgroups: []
+    permissions: []
+    group: LegatusLegioni
+  Huntorkrunk:
+    subgroups: []
+    permissions: []
+    group: regular
+  SMKR_MLG_Beast:
+    subgroups: []
+    permissions: []
+    group: LegatusLegioni
+  BeGamer26:
+    subgroups: []
+    permissions: []
+    group: Miltes
+  Rome_Atokazi:
+    subgroups: []
+    permissions: []
+    group: regular
+  crusher59:
+    subgroups: []
+    permissions: []
+    group: Miltes
+  ZSHERRILL:
+    subgroups: []
+    permissions: []
+    group: regular
+  kevinmarr:
+    subgroups: []
+    permissions: []
+    group: Miltes
+  toremann50:
+    subgroups: []
+    permissions: []
+    group: regular
+  unipegusus:
+    subgroups: []
+    permissions: []
+    group: Miltes
+  Yi238:
+    subgroups: []
+    permissions: []
+    group: SyS-Min
+  fanuni:
+    subgroups: []
+    permissions: []
+    group: Miltes
+  ThyGoldfishy:
+    subgroups: []
+    permissions:
+    - faction.*
+    - factions.*
+    group: Moderator
+  Nolan901:
+    subgroups: []
+    permissions: []
+    group: Head-Admin
+  KHobbits:
+    subgroups: []
+    permissions: []
+    group: Moderator
+  PyroPounder:
+    subgroups: []
+    permissions: []
+    group: LegatusLegioni
+  runningshadow20:
+    subgroups: []
+    permissions: []
+    group: regular
+  jesperwidman:
+    subgroups: []
+    permissions: []
+    group: Miltes
+  krit207:
+    subgroups: []
+    permissions:
+    - gamemode.toggle
+    - gm.toggle
+    - worldedit.*
+    - worldguard.*
+    group: Miltes
+  Captain_Kittiez:
+    subgroups: []
+    permissions: []
+    group: regular
+  smfmilo:
+    subgroups: []
+    permissions: []
+    group: LegatusLegioni
+  9now:
+    subgroups: []
+    permissions: []
+    group: Moderator
+  ElgarL:
+    subgroups: []
+    permissions: []
+    group: Moderator
+  wilsongarrett5:
+    subgroups: []
+    permissions: []
+    group: regular
+  minizicrog:
+    subgroups: []
+    permissions: []
+    group: Miltes
+  XxXNer0XxX:
+    subgroups: []
+    permissions: []
+    group: Owner
+    info:
+      prefix: '&0[&5&lO&0wne&5&lR&0]'
+  Peter_Tree:
+    subgroups: []
+    permissions: []
+    group: regular
+  liamrox01:
+    subgroups: []
+    permissions:
+    - worldedit.*
+    - worldguard.*
+    group: regular
+  Minka87:
+    subgroups: []
+    permissions: []
+    group: Hyperion
+    info:
+      worldedit: '*'
+  sonicrob01:
+    subgroups: []
+    permissions: []
+    group: Operator
+    info:
+      prefix: '&9&l[ServerElite]'
+  darkone264:
+    subgroups: []
+    permissions: []
+    group: Discen
+  dauphin327:
+    subgroups: []
+    permissions: []
+    group: Operator
+  BH211:
+    subgroups: []
+    permissions: []
+    group: Builder
+  Tractoroff24:
+    subgroups: []
+    permissions: []
+    group: regular
+  Stormfeather77:
+    subgroups: []
+    permissions: []
+    group: regular
+  jbeitz:
+    subgroups: []
+    permissions: []
+    group: SeniorMod
+  Thunder_Nova:
+    subgroups: []
+    permissions:
+    - -worldedit.*
+    - citizens.*
+    - essentials.ban
+    - essentials.enchant
+    - essentials.enchant.*
+    - essentials.enchant.all
+    - essentials.fireball
+    - essentials.jail
+    - essentials.lightning
+    - essentials.lightning.others
+    - essentials.npc.*
+    - essentials.setjail
+    - essentials.shock
+    - essentials.smite
+    - essentials.smite.others
+    - essentials.spawner
+    - essentials.spawner.*
+    - essentials.spawnmob
+    - essentials.spawnmob.*
+    - essentials.tempban
+    - essentials.tp
+    - essentials.tp.*
+    - essentials.tp.all
+    - essentials.tp.others
+    - essentials.tphere
+    - essentials.tpo
+    - essentials.tpo.here
+    - essentials.tpo.others
+    - essentials.tpohere
+    - essentials.unjail
+    - vanish.*
+    - vanoshnopacket.*
+    - worldedit.*
+    group: Builder
+  EDMZEUS:
+    subgroups: []
+    permissions: []
+    group: regular
+  aidentang:
+    subgroups: []
+    permissions: []
+    group: SeniorMod
+  mckeev:
+    subgroups: []
+    permissions: []
+    group: Zeus
+  terrephil:
+    subgroups: []
+    permissions: []
+    group: regular
+  LandenRox:
+    subgroups: []
+    permissions: []
+    group: regular
+  vashidu:
+    subgroups: []
+    permissions:
+    - -vanish.nointeract
+    group: SyS-Min
+  CrazyCajun36:
+    subgroups: []
+    permissions: []
+    group: LegatusLegioni
+  flutterbouyec:
+    subgroups: []
+    permissions: []
+    group: Zeus
+  Rib_blc:
+    subgroups: []
+    permissions: []
+    group: regular
+  beasthockey:
+    subgroups: []
+    permissions: []
+    group: LegatusLegioni
+  minwrath2897:
+    subgroups: []
+    permissions: []
+    group: regular
+  ErkaaanZ:
+    subgroups: []
+    permissions: []
+    group: Miltes
+  adrian5099:
+    subgroups: []
+    permissions:
+    - Essentialskittool
+    group: Zeus
+  xXPANDABUTTXx:
+    subgroups: []
+    permissions: []
+    group: Miltes

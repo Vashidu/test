@@ -1,0 +1,23 @@
+timestamps:
+  login: 1338679189577
+  lastteleport: 1338679240738
+  logout: 1338681858211
+ipAddress: 88.84.49.116
+lastlocation:
+  world: world
+  x: 197.2355594229181
+  y: 60.0
+  z: 463.65716075037136
+  yaw: -309.38525
+  pitch: 50.09311
+homes:
+  home:
+    world: world
+    x: 223.07702003035376
+    y: 63.0
+    z: 469.1600867329256
+    yaw: 326.8053
+    pitch: 59.399445
+money: 6268.0
+ban:
+  reason: Derp

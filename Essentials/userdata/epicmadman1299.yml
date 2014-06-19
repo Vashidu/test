@@ -1,0 +1,28 @@
+timestamps:
+  login: 1340829025965
+  lastteleport: 1339966786289
+  logout: 1340829026151
+  mute: 0
+ipAddress: 204.237.96.126
+lastlocation:
+  world: world
+  x: -41.648001082759116
+  y: 76.0
+  z: 423.2456660616413
+  yaw: -328.62964
+  pitch: 2.709898
+money: 301326.0
+homes:
+  home:
+    world: world
+    x: 112.49304152175664
+    y: 58.0
+    z: -595.8678988434837
+    yaw: -83.765564
+    pitch: 15.616027
+muted: false
+godmode: false
+ban:
+  reason: Temporarily banned from server for  41 minutes 40 seconds
+  timeout: 1334460296722
+nickname: Epic

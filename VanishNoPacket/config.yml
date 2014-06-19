@@ -1,0 +1,23 @@
+# 
+# VanishNoPacket
+#   A fine choice of invisibility for the discerning server administrator.
+#   http://www.kitteh.org
+fakeannounce:
+  automaticforsilentjoin: true
+  join: '%p joined the game.'
+  quit: '%p left the game.'
+hooks:
+  essentials: false
+  dynmap: false
+  JSONAPI: false
+  spoutcraft: false
+checkupdates: true
+permissionsupdates:
+  checkonworldchange: false
+effects:
+  lightning:
+    count: -1
+permtest: false
+debug: false
+configVersionDoNotTouch:
+  SeriouslyThisWillEraseYourConfig: 4

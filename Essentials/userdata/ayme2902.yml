@@ -1,0 +1,21 @@
+timestamps:
+  login: 1336586702262
+  lastteleport: 1336587005720
+  logout: 1336587004596
+ipAddress: 85.11.235.233
+lastlocation:
+  world: world_nether
+  x: 484.33717560737847
+  y: 83.0
+  z: 26.67637276235873
+  yaw: -72.354576
+  pitch: 4.200031
+homes:
+  home:
+    world: world
+    x: 127.5
+    y: 58.0
+    z: 257.5
+    yaw: -90.23631
+    pitch: -3.4824455
+money: 2690.0

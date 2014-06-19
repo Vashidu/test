@@ -1,0 +1,68 @@
+---------- Permission nodes for Factions ----------
+factions.kit.admin - All faction permissions.
+factions.* - This is just an alias for factions.kit.admin
+factions.kit.mod - All faction permissions but configuration and persistance.
+factions.kit.halfmod - Zones, bypassing, kicking, and chatspy
+factions.kit.fullplayer - Can also create new factions.
+factions.kit.halfplayer - Can do all but create factions.
+factions.admin - hand over your admin rights
+factions.admin.any - give or revoke admin status for any player in any faction
+factions.autoclaim - auto-claim land as you walk around
+factions.bypass - enable admin bypass mode
+factions.chat - change chat mode
+factions.chatspy - enable admin chat spy mode
+factions.claim - claim land where you are standing
+factions.config - change a conf.json setting
+factions.create - create a new faction
+factions.deinvite - remove a pending invitation
+factions.description - change the faction description
+factions.disband - disband a faction
+factions.disband.any - disband another faction
+factions.help - display a help page
+factions.home - teleport to the faction home
+factions.invite - invite a player to your faction
+factions.join - join a faction
+factions.join.any - join any faction, bypassing invitation process for closed factions
+factions.join.others - specify another player in the join command, to move them to the specified faction
+factions.kick - kick a player from the faction
+factions.kick.any - kick anyone from any faction
+factions.leave - leave your faction
+factions.list - see a list of the factions
+factions.lock - lock all write stuff
+factions.managesafezone - claim land as a safe zone and build/destroy within safe zones
+factions.managewarzone - claim land as a war zone and build/destroy within war zones
+factions.map - show the territory map, and set optional auto update
+factions.mod - give or revoke moderator rights
+factions.mod.any - give or revoke moderator rights for any player in any faction
+factions.money.balance - show your factions current money balance
+factions.money.balance.any - show money balance for factions other than your own
+factions.money.deposit - deposit money into a faction bank
+factions.money.withdraw - withdraw money from your faction bank
+factions.money.withdraw.any - withdraw money from your factions other than your own
+factions.money.f2f - transfer money from faction to faction
+factions.money.f2p - transfer money from faction to player
+factions.money.p2f - transfer money from player to faction
+factions.money.kit.standard - 
+factions.money.* - 
+factions.noboom - toggle explosions (peaceful factions only)
+factions.open - switch if invitation is required to join
+factions.owner - set ownership of claimed land
+factions.ownerlist - list owner(s) of this claimed land
+factions.ownershipbypass - bypass ownership restrictions within own faction's territory
+factions.setpeaceful - designate a faction as peaceful
+factions.setpermanent - designate a faction as permanent
+factions.setpermanentpower - set permanent power for a faction
+factions.power - show player power info
+factions.power.any - view an other players power level
+factions.powerboost - apply permanent power bonus/penalty to specified player or faction
+factions.relation - set relation wish to another faction
+factions.reload - reload data file(s) from disk
+factions.save - save all data to disk
+factions.sethome - set the faction home
+factions.sethome.any - set faction home for another faction
+factions.show - show faction information
+factions.tag - change the faction tag
+factions.title - set or remove a players title
+factions.version - see the version of the plugin
+factions.unclaim - unclaim the land where you are standing
+factions.unclaimall - unclaim all of your factions land

@@ -1,0 +1,23 @@
+timestamps:
+  login: 1335400395891
+  lastteleport: 1335399300205
+  logout: 1335400400983
+ipAddress: 98.227.162.202
+lastlocation:
+  world: world
+  x: -308.69999998807907
+  y: 71.0
+  z: 290.2147156606548
+  yaw: 34.62426
+  pitch: 20.55
+homes:
+  home:
+    world: world
+    x: -319.0258704002323
+    y: 74.0
+    z: 292.69999998807907
+    yaw: -106.470215
+    pitch: 13.950026
+money: 1029.0
+ban:
+  reason: NAZI

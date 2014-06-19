@@ -1,0 +1,22 @@
+timestamps:
+  login: 1335049747583
+  logout: 1335049763209
+  lastteleport: 1335048636219
+ipAddress: 173.57.106.21
+lastlocation:
+  world: world
+  x: 3080.19451356711
+  y: 46.0
+  z: 1512.325439357378
+  yaw: 35.486298
+  pitch: 67.20011
+homes:
+  home:
+    world: world
+    x: 3107.832740935019
+    y: 130.0
+    z: 1462.7694080257206
+    yaw: 58.586285
+    pitch: 22.500092
+ban:
+  reason: I dont like liars.

@@ -1,0 +1,26 @@
+timestamps:
+  login: 1341109757245
+  lastteleport: 1341009296427
+  logout: 1341110241296
+ipAddress: 50.70.71.231
+homes:
+  home:
+    world: world
+    x: -247.17860411728998
+    y: 75.00672773251728
+    z: -445.9949808875422
+    yaw: -96.68408
+    pitch: 61.70852
+lastlocation:
+  world: world
+  x: 528.5204282415981
+  y: 74.5
+  z: 723.0041117065792
+  yaw: -117.33949
+  pitch: 25.751005
+nickname: §4Nolan
+afk: false
+money: 1.000550001E7
+powertools: {}
+godmode: false
+teleportenabled: true

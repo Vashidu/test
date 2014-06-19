@@ -1,0 +1,31 @@
+timestamps:
+  login: 1337161869112
+  lastteleport: 1336981517018
+  logout: 1337161939729
+  lastheal: 1334931514070
+  jail: 0
+  mute: 0
+ipAddress: 96.251.42.33
+lastlocation:
+  world: world
+  x: -42.5
+  y: 119.62000000476837
+  z: 430.5
+  yaw: 0.0
+  pitch: 0.0
+money: 48056.0
+nickname: Penn
+godmode: false
+homes:
+  home:
+    world: world
+    x: 4483.585150759956
+    y: 74.0
+    z: -1429.8859117151587
+    yaw: -93.85803
+    pitch: 8.650311
+socialspy: true
+jailed: false
+ban:
+  reason: griefing
+muted: false

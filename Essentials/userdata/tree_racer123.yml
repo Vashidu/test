@@ -1,0 +1,25 @@
+timestamps:
+  login: 1338027001418
+  logout: 1338029525901
+  lastteleport: 1338029181424
+  mute: 0
+ipAddress: 24.60.72.133
+lastlocation:
+  world: world
+  x: 3581.2004212085185
+  y: 14.0
+  z: 2535.514460744439
+  yaw: -82.94992
+  pitch: 15.450049
+ban:
+  reason: post an appeal on the forums.
+money: 299.0
+muted: false
+homes:
+  home:
+    world: world
+    x: 2937.0266823876623
+    y: 64.0
+    z: 2880.778613620847
+    yaw: 173.7373
+    pitch: 13.500112

@@ -1,0 +1,23 @@
+timestamps:
+  login: 1338510150912
+  lastteleport: 1338096184440
+  logout: 1338510639556
+ipAddress: 78.72.127.200
+lastlocation:
+  world: world_nether
+  x: 207.15615003294673
+  y: 137.0
+  z: 147.69568684010562
+  yaw: -95.86533
+  pitch: 57.150032
+homes:
+  home:
+    world: world
+    x: 1072.5032478315177
+    y: 66.0
+    z: -1124.699999988079
+    yaw: -4.949585
+    pitch: 29.550016
+money: 1090.0
+ban:
+  reason: Asking for Op. Go fuck yourself.

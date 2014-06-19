@@ -1,0 +1,23 @@
+timestamps:
+  login: 1336964618633
+  lastteleport: 1336964675176
+  logout: 1336964870407
+ipAddress: 204.237.43.87
+lastlocation:
+  world: world
+  x: 2730.905739548842
+  y: 48.0
+  z: 1437.4257403433892
+  yaw: -169.34593
+  pitch: -2.6680474
+homes:
+  home:
+    world: world
+    x: 2731.548220397705
+    y: 24.0
+    z: 1447.820505883439
+    yaw: -180.99965
+    pitch: 6.3959055
+money: 288.0
+ban:
+  reason: Hacked Client. Dumbass

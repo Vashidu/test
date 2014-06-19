@@ -1,0 +1,21 @@
+timestamps:
+  login: 1335476246481
+  logout: 1335476328302
+  lastteleport: 1335474684667
+ipAddress: 70.73.14.226
+lastlocation:
+  world: world_nether
+  x: -790.6301457162298
+  y: 128.0
+  z: 592.9265207485727
+  yaw: -32.634525
+  pitch: 20.999979
+homes:
+  home:
+    world: world_nether
+    x: -578.6809223641262
+    y: 128.0
+    z: 479.7668396983924
+    yaw: 86.16661
+    pitch: 30.0
+nickname: 6ty

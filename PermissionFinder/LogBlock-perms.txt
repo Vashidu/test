@@ -1,0 +1,10 @@
+---------- Permission nodes for LogBlock ----------
+logblock.* - Gives access to all LogBlock commands
+logblock.lookup - Grants access to /lb lookup commands and allows defining custom tool queries
+logblock.rollback - Allows rollback, redo and write logfiles
+logblock.clearlog - Allows to use /lb clearlog
+logblock.hide - Allows to hide from logging
+logblock.tp - Allows to use /lb tp
+logblock.me - Allows to see oneselfs stats with /lb me
+logblock.ignoreRestrictions - Allows to ignore the rollback restrictions rollback.maxTime and rollback.maxArea
+logblock.spawnTools - Allows to spawn tools

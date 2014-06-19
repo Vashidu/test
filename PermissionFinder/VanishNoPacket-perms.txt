@@ -1,0 +1,52 @@
+---------- Permission nodes for VanishNoPacket ----------
+vanish.currentlyVanished - Do not manually play with this. Do not.
+vanish.vanish - Allows player to vanish. 
+REALLY should give players with this access to vanish.see
+
+vanish.see - Allows player to see vanished players
+vanish.statusupdates - Informed about players changing status
+vanish.list - Acquire a list of vanished users
+vanish.nopickup - If true player can pick up items when vanished
+vanish.nofollow - If true mobs do not follow player when vanished
+vanish.notrample - If true player does not trample crops
+vanish.nointeract - If true player cannot press buttons, break or place blocks, open doors, activate pressure pads etc
+vanish.nochat - No chatting while vanished
+vanish.nohunger - Nom nom nom. If true, doesn't lose food level when vanished
+vanish.preventincomingdamage - Prevent being harmed by things around you while vanished
+vanish.preventoutgoingdamage - Prevent accidentally hurting stuff while vanished
+vanish.preventdamage - Prevent damage both ways
+vanish.joinwithoutannounce - Join without announcing it
+vanish.joinvanished - Join vanished
+vanish.silentjoin - Join silently. Announce on toggling vanish off
+vanish.silentquit - ALWAYS quit silently.
+vanish.silentchests - Allows user to read chests silently while vanished
+vanish.toggle.silentchests - Toggle ability to read chests silently
+vanish.toggle.see - Toggle seeing other vanished players
+vanish.toggle.nopickup - Toggle pickup ability
+vanish.toggle.nofollow - Toggle mob aggro
+vanish.toggle.nointeract - Toggle interaction ability (doors, pressurepads, buttons, breaking or placing blocks, etc)
+vanish.toggle.nochat - Toggle ability to chat
+vanish.toggle.nohunger - Toggle ability to not lose hunger
+vanish.toggle.damageout - Toggle outgoing damage
+vanish.toggle.damagein - Toggle incoming damage
+vanish.toggle.damage - Toggle both damage in and out
+vanish.toggle.all - Allows user to toggle all their settings ingame
+vanish.fakeannounce - Fake joining/leaving
+vanish.adminalerts - Receive alerts about updates and such
+vanish.permtest.self - If PermTest is enabled, be able to use it on yourself
+vanish.permtest.other - If PermTest is enabled, be able to use it on others
+vanish.permtest.all - If PermTest is enabled, be able to use on self and others
+vanish.hooks.dynmap.alwayshidden - Always hide from dynmap
+vanish.hooks.essentials.hide - Hide user in Essentials
+vanish.spout.status - See a status bar if vanished in spoutcraft
+vanish.reload - Reloads some VNP systems
+vanish.effects.smoke - Creates smoke effect when vanishing and re-appearing
+vanish.effects.explode - Creates explosion effect when vanishing and re-appearing
+vanish.effects.lightning - Creates a lightning barrage around a player when vanishing and re-appearing
+vanish.effects.toggle.smoke - Toggle smoke on vanish toggle
+vanish.effects.toggle.explode - Toggle explode on vanish toggle
+vanish.effects.toggle.lightning - Toggle lightning on vanish toggle
+vanish.effects.toggle.all - Toggle all vanish toggle effects
+vanish.op - The permission nodes given to ops
+vanish.standard - Can vanish, see vanished, no pickup when vanished
+vanish.* - Oh god everything.

@@ -1,0 +1,24 @@
+timestamps:
+  login: 1337594035713
+  logout: 1337594039373
+  lastteleport: 1337593899539
+  mute: 0
+ipAddress: 173.16.219.52
+lastlocation:
+  world: world
+  x: -44.85275959175014
+  y: 76.0
+  z: 432.64661759193274
+  yaw: -175.05013
+  pitch: -15.450048
+homes:
+  home:
+    world: world
+    x: 2869.300000011921
+    y: 64.0
+    z: 3136.3623659017144
+    yaw: 272.529
+    pitch: 24.450026
+muted: true
+ban:
+  reason: Only Intenstions are Spamming.

@@ -1,0 +1,7 @@
+---------- Permission nodes for AlphaChest ----------
+alphachest.* - Gives access to the virtual chest and workbench.
+alphachest.chest - Gives access to the virtual chest.
+alphachest.workbench - Gives access to the virtual workbench.
+alphachest.keepOnDeath - Allows to keep the chest contents on death even if clearOnDeath setting is enabled.
+alphachest.admin - Allows to open and clear someone else's chest.
+alphachest.save - Allows to save all virtual chests.

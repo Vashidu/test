@@ -1,0 +1,26 @@
+timestamps:
+  login: 1338415539025
+  lastteleport: 1338131714373
+  logout: 1338415541822
+  mute: 1335797594037
+ipAddress: 37.44.139.5
+lastlocation:
+  world: world
+  x: 930.1766414260597
+  y: 70.0
+  z: 1572.213993692102
+  yaw: -352.96765
+  pitch: 20.083994
+homes:
+  home:
+    world: world
+    x: 932.9729581326017
+    y: 69.0
+    z: 1564.1407989709796
+    yaw: 41.83263
+    pitch: 20.084002
+money: 15.0
+muted: false
+ban:
+  reason: Swastika outside market.
+  timeout: 1337182138210

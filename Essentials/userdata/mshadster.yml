@@ -1,0 +1,24 @@
+timestamps:
+  login: 1338637804158
+  logout: 1338637878038
+  lastteleport: 1335747408707
+ipAddress: 100.42.154.93
+lastlocation:
+  world: world
+  x: -102.61101598095826
+  y: 77.0
+  z: 410.13145230937465
+  yaw: 336.55707
+  pitch: -16.121552
+nickname: §6Shady
+socialspy: true
+money: 615780.0
+godmode: true
+homes:
+  home:
+    world: world
+    x: 2951.008392343299
+    y: 52.0
+    z: 1516.507040008325
+    yaw: 264.61383
+    pitch: 45.113277

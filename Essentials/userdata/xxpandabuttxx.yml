@@ -1,0 +1,29 @@
+timestamps:
+  login: 1338844306802
+  lastteleport: 1338843604974
+  logout: 1338844333287
+  mute: 0
+  lastheal: 1338529938886
+ipAddress: 99.73.144.118
+lastlocation:
+  world: world
+  x: 3213.6708250253982
+  y: 64.0
+  z: 3087.6281934138397
+  yaw: 98.45133
+  pitch: -8.192831
+homes:
+  home:
+    world: world
+    x: 3235.1789582379283
+    y: 15.0
+    z: 3091.7797431120425
+    yaw: 75.65133
+    pitch: 31.107164
+muted: false
+money: 970.0
+ban:
+  reason: ''
+  timeout: 0
+godmode: true
+nickname: §5Panda

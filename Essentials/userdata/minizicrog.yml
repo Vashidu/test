@@ -1,0 +1,25 @@
+timestamps:
+  login: 1341007253931
+  logout: 1341007259092
+  lastteleport: 1340655632644
+  lastheal: 1340583718454
+ipAddress: 99.19.232.100
+lastlocation:
+  world: world
+  x: 2632.300000011921
+  y: 24.0
+  z: 1136.4953172934165
+  yaw: -16.958681
+  pitch: -5.8499813
+homes:
+  home:
+    world: world
+    x: 2632.300000011921
+    y: 24.0
+    z: 1135.300000011921
+    yaw: -8.708679
+    pitch: -1.7999755
+money: 11902.0
+ban:
+  reason: Claiming Public Land
+godmode: true

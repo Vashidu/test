@@ -1,0 +1,23 @@
+timestamps:
+  login: 1340979426953
+  logout: 1340979582714
+  lastteleport: 1340945285008
+  lastheal: 1340496745705
+ipAddress: 96.233.67.20
+lastlocation:
+  world: world_nether
+  x: 107.91990746703922
+  y: 44.92499996721311
+  z: 236.10708539885823
+  yaw: -0.93496174
+  pitch: 42.973164
+nickname: §6ThyGoldFishy
+homes:
+  home:
+    world: world
+    x: -1745.963660368991
+    y: 63.0
+    z: -1316.336045589229
+    yaw: 197.32149
+    pitch: 32.706093
+godmode: true

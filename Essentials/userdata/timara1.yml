@@ -1,0 +1,22 @@
+timestamps:
+  login: 1334505889449
+  lastteleport: 1334507290915
+  logout: 1334507322944
+ipAddress: 213.112.241.164
+lastlocation:
+  world: world
+  x: 2077.3798608125567
+  y: 69.0
+  z: 1518.1529905285
+  yaw: 82.422226
+  pitch: 9.99692
+homes:
+  home:
+    world: world
+    x: 3274.2132155231543
+    y: 57.0
+    z: 1710.300000011921
+    yaw: 5.87204
+    pitch: 27.376286
+ban:
+  reason: Griefing, Stealing and being a jerk

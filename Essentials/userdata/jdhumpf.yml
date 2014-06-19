@@ -1,0 +1,26 @@
+timestamps:
+  login: 1338681127368
+  logout: 1338681279621
+  lastteleport: 1338643278967
+ipAddress: 74.79.77.124
+lastlocation:
+  world: world
+  x: 2568.7553756853154
+  y: 75.69616043205441
+  z: 252.17925459085768
+  yaw: 114.4491
+  pitch: 20.849993
+homes:
+  home:
+    world: world
+    x: 2825.6262100276567
+    y: 72.0
+    z: -155.11583476246332
+    yaw: 90.74899
+    pitch: 4.200387
+money: 88985.0
+ban:
+  reason: gtfo bitch
+  timeout: 0
+godmode: false
+nickname: §4jdhumpf

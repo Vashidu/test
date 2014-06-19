@@ -1,0 +1,23 @@
+timestamps:
+  login: 1337741361394
+  lastteleport: 1337740221384
+  logout: 1337741399545
+ipAddress: 85.164.187.42
+lastlocation:
+  world: world
+  x: 953.3000000119209
+  y: 49.0
+  z: 1561.699999988079
+  yaw: 94.96045
+  pitch: 22.94999
+homes:
+  home:
+    world: world
+    x: 930.3199443902108
+    y: 69.0
+    z: 1565.67873139121
+    yaw: -150.28954
+    pitch: 6.1500072
+money: 15872.5
+ban:
+  reason: Advertising gayness

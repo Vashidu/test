@@ -1,0 +1,25 @@
+timestamps:
+  login: 1337833769362
+  lastteleport: 1336971346519
+  logout: 1337833780257
+  mute: 0
+ipAddress: 86.171.187.42
+lastlocation:
+  world: world
+  x: -43.5
+  y: 119.62000000476837
+  z: 430.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 3891.225285180763
+    y: 64.0
+    z: 371.39397981002594
+    yaw: 136.59544
+    pitch: 20.100214
+money: 58.0
+muted: false
+ban:
+  reason: Ok banned then

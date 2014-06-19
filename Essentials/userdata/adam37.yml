@@ -1,0 +1,28 @@
+timestamps:
+  login: 1338673965787
+  lastteleport: 1338673991092
+  logout: 1338674014051
+  mute: 0
+  lastheal: 1335395907347
+ipAddress: 76.202.229.169
+lastlocation:
+  world: world
+  x: 21.30000001192093
+  y: 65.0
+  z: -334.95988946184923
+  yaw: 342.6352
+  pitch: 27.082613
+godmode: false
+homes:
+  home:
+    world: world
+    x: 3630.4363424248927
+    y: 112.0
+    z: 3675.579849803094
+    yaw: 265.02527
+    pitch: 4.5404325
+muted: false
+money: 529254.0
+nickname: §4Fighter_Adam
+ban:
+  reason: amg

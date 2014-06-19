@@ -1,0 +1,38 @@
+ConfigVersion: '1.4'
+UsePermissions: false
+UseNicknames: true
+Groups:
+  Member:
+    Colors:
+    - a
+    - o
+    Prefix: ''
+  Admin:
+    Colors:
+    - '4'
+    - l
+    Prefix: '[A]'
+multi1:
+- '2'
+- o
+multi2:
+- e
+- l
+multi3:
+- a
+- o
+multi4:
+- a
+- o
+multi5:
+- a
+- o
+multi6:
+- a
+- o
+prefix1: new
+prefix2: exp
+prefix3: mod
+prefix4: admin
+prefix5: BOSS
+prefix6: idk

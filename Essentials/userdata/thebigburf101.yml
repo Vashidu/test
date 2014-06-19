@@ -1,0 +1,27 @@
+timestamps:
+  login: 1336645386539
+  lastteleport: 1336300167101
+  logout: 1336645391259
+  mute: 0
+  jail: 0
+ipAddress: 144.137.209.73
+lastlocation:
+  world: world
+  x: 148.5
+  y: 62.0
+  z: 250.5
+  yaw: -323.57593
+  pitch: 27.43696
+homes:
+  home:
+    world: world
+    x: 148.59888542801647
+    y: 62.0
+    z: 250.35579621454747
+    yaw: -322.97595
+    pitch: 27.43696
+money: 1034942.0
+ban:
+  reason: Greifer
+muted: false
+jailed: false

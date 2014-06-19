@@ -1,0 +1,16 @@
+timestamps:
+  login: 1337582105759
+  lastteleport: 1336057055369
+  logout: 1337582117857
+  mute: 0
+ipAddress: 74.194.149.21
+lastlocation:
+  world: world
+  x: -48.5
+  y: 118.62000000476837
+  z: 427.5
+  yaw: 0.0
+  pitch: 0.0
+ban:
+  reason: Idiot.
+muted: true

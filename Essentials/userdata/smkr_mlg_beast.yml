@@ -1,0 +1,28 @@
+timestamps:
+  login: 1341118354589
+  logout: 1341118360699
+  lastteleport: 1341097674158
+  lastheal: 1335644676100
+  jail: 0
+ipAddress: 24.170.252.31
+lastlocation:
+  world: world
+  x: 2093.045974933911
+  y: 64.0
+  z: 177.9033180559885
+  yaw: 79.97786
+  pitch: 17.512503
+nickname: §4§ka§r§3Matt§4§ka
+godmode: false
+homes:
+  home:
+    world: world
+    x: 1814.1186612118202
+    y: 101.0
+    z: 231.7800733749183
+    yaw: -257.9413
+    pitch: 16.200073
+money: 23966.0
+jailed: false
+ban:
+  reason: for griefing

@@ -1,0 +1,36 @@
+timestamps:
+  login: 1338640090977
+  lastteleport: 1338352439402
+  logout: 1338640113039
+  mute: 0
+  lastheal: 1334615150646
+ipAddress: 24.102.234.97
+lastlocation:
+  world: world
+  x: -61.957892812610964
+  y: 80.0
+  z: 428.66299103361325
+  yaw: -88.71555
+  pitch: 32.400764
+homes:
+  home:
+    world: world
+    x: 2896.2453315569414
+    y: 69.5
+    z: -262.3032022266521
+    yaw: -176.30571
+    pitch: 9.053727
+muted: false
+godmode: false
+socialspy: true
+money: 9.999998261843E12
+afk: false
+powertools:
+  '295':
+  - /undo
+  '70':
+  - kittycannon
+teleportenabled: true
+nickname: §6Manish
+ban:
+  reason: Competing server

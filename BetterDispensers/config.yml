@@ -1,0 +1,108 @@
+verbose: false
+tellPlayer: true
+dispenser:
+  sneakReverseOrientation: true
+  overrideHorizontal: true
+  overrideVertical: true
+  velocityHorizontal: 0.1
+  velocityDown: -0.05
+  velocityUp: 0.4
+  dispenseOnPlayerArrows: true
+  dispenseOnNonPlayerArrows: true
+  arrowEnable: true
+  arrowForce: 1.1
+  arrowSpread: 6.0
+  eggEnable: true
+  eggForce: 1.1
+  eggSpread: 6.0
+  snowballForce: 1.1
+  snowballSpread: 6.0
+  snowballEnable: true
+  potionEnable: true
+  potionForce: 1.375
+  potionSpread: 6.0
+  expbottleEnable: true
+  expbottleForce: 1.1
+  expbottleSpread: 6.0
+  spawnEggEnable: true
+  fireballEnable: true
+  fireballRandomMotionX: 0.05
+  fireballRandomMotionY: 0.05
+  fireballRandomMotionZ: 0.05
+  tntEnable: true
+  tntVelocityFactorY: 3.0
+  tntVelocityFactorHorizontal: 5.0
+  tntFuzz: 0.1
+  tntVelocityBaseX: 1.0
+  tntVelocityBaseY: 0.0
+  tntVelocityBaseZ: 1.0
+  tntRandomMotionX: 0.045
+  tntRandomMotionY: 0.045
+  tntRandomMotionZ: 0.045
+  tntFuseTicks: 15
+  liquidsEnable: true
+  liquids:
+  - 8
+  - 9
+  - 10
+  - 11
+  - 162
+  - 163
+  bucketsEnable: true
+  bucketsKeep: true
+  buckets:
+  - 326
+  - 327
+  - 4063
+  bucketLiquids:
+    '326': 8
+    '327': 10
+    '4063': 162
+  boatEnable: true
+  cartEnable: true
+  itemEnable: true
+  itemVelocityFactorY: 2.0
+  itemFuzz: 0.3
+  itemRandomMotionX: 0.045
+  itemRandomMotionY: 0.045
+  itemRandomMotionZ: 0.045
+crafter:
+  enable: true
+  blockID: 58
+interactor:
+  enable: true
+  blockID: 22
+  reachLimit: 7
+breaker:
+  enable: true
+  blockID: 42
+  reachLimit: 7
+  unbreakableBlockIDs:
+  - 7
+  - 90
+  - 119
+  - 120
+vacuum:
+  enable: true
+  blockID: 49
+  enablePlayerArrows: true
+  enableNonPlayerArrows: true
+  reachLimit: 10.0
+  itemDropRange: 2
+  itemDropDelayTicks: 10
+accelerator:
+  enable: true
+  blockID: 41
+  velocityFactorY: 6.0
+conduit:
+  blockID: 20
+  enableDirectConnection: true
+  maxLength: 10000
+filler:
+  enable: true
+  blockID: 5
+  unconnectedDrop: true
+  overflowDrop: true
+turret:
+  enable: true
+  blockID: 45

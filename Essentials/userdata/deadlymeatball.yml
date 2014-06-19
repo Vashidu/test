@@ -1,0 +1,30 @@
+timestamps:
+  login: 1336953604050
+  lastteleport: 1336395841432
+  logout: 1336953611750
+  jail: 0
+  kits:
+    gladiator: 1334946462278
+  mute: 0
+ipAddress: 90.219.29.91
+lastlocation:
+  world: world
+  x: 3891.1945312825915
+  y: 64.0
+  z: 371.29425017819733
+  yaw: 137.7239
+  pitch: 14.133889
+homes:
+  home:
+    world: world
+    x: 3596.1213686193737
+    y: 62.0
+    z: -1242.088729346358
+    yaw: -267.63104
+    pitch: 27.416302
+money: 8549.0
+jailed: false
+muted: false
+ban:
+  reason: Temporarily banned from server for  16 minutes 40 seconds
+  timeout: 0

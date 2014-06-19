@@ -1,0 +1,25 @@
+timestamps:
+  login: 1335025963275
+  lastteleport: 1335025563511
+  logout: 1335025978744
+  mute: 0
+ipAddress: 173.206.14.0
+lastlocation:
+  world: world
+  x: 3107.489522707076
+  y: 80.0
+  z: 1449.328639370993
+  yaw: -2.6137695
+  pitch: 18.599878
+money: 299.0
+homes:
+  home:
+    world: world
+    x: 3500.57592321583
+    y: 107.0
+    z: 1827.408815498345
+    yaw: -188.52945
+    pitch: 57.15004
+muted: true
+ban:
+  reason: Mine is perfectlt fine

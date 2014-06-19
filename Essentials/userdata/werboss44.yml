@@ -1,0 +1,22 @@
+timestamps:
+  login: 1338009931748
+  logout: 1338010049619
+  lastteleport: 1335708810422
+ipAddress: 173.174.55.107
+lastlocation:
+  world: world
+  x: -42.5
+  y: 119.62000000476837
+  z: 445.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 3873.1260962190563
+    y: 64.0
+    z: 339.9584197385781
+    yaw: 130.8955
+    pitch: 27.750216
+ban:
+  reason: you suck my nuts.

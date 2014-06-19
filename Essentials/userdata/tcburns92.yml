@@ -1,0 +1,24 @@
+timestamps:
+  login: 1338607846049
+  lastteleport: 1338607900425
+  logout: 1338607938493
+ipAddress: 67.81.201.125
+lastlocation:
+  world: world_nether
+  x: 839.6999999880791
+  y: 129.0
+  z: -712.7909072007171
+  yaw: -35.668434
+  pitch: 15.590228
+money: 50000.0
+homes:
+  home:
+    world: world
+    x: 3224.8866630030752
+    y: 11.0
+    z: 3120.497497436797
+    yaw: -115.65033
+    pitch: 13.865805
+ban:
+  reason: Temporarily banned from server for  3 days
+  timeout: 1337728049550

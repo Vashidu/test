@@ -1,0 +1,23 @@
+timestamps:
+  login: 1335396141774
+  logout: 1335396180983
+  lastteleport: 1335396149000
+ipAddress: 174.0.200.60
+lastlocation:
+  world: world
+  x: 251.5
+  y: 63.0
+  z: 571.5
+  yaw: -194.53229
+  pitch: 47.698536
+homes:
+  home:
+    world: world
+    x: 251.30000001192084
+    y: 63.0
+    z: 571.8945845651607
+    yaw: -194.53229
+    pitch: 47.698536
+money: 220.0
+ban:
+  reason: Griefer

@@ -1,0 +1,24 @@
+timestamps:
+  login: 1337565971625
+  lastteleport: 1336232758603
+  logout: 1336232810297
+ipAddress: 70.24.20.28
+lastlocation:
+  world: world
+  x: -40.5
+  y: 118.62000000476837
+  z: 436.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 3973.429909089643
+    y: 72.0
+    z: 1034.3935312861556
+    yaw: 353.49597
+    pitch: 21.299992
+money: 16318.0
+ban:
+  reason: General Dumbassery
+  timeout: 0

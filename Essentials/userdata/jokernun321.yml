@@ -1,0 +1,26 @@
+timestamps:
+  login: 1338532910316
+  lastteleport: 1338274049949
+  logout: 1338532971477
+ipAddress: 70.49.14.126
+lastlocation:
+  world: world
+  x: 2879.242395133932
+  y: 66.41089880271443
+  z: 3188.605143670128
+  yaw: -311.95755
+  pitch: 28.95
+homes:
+  home:
+    world: world
+    x: 2879.097852901008
+    y: 66.0
+    z: 3188.292303364159
+    yaw: -313.30756
+    pitch: 32.7
+money: 99.0
+mail:
+- 'Mc_Grammar: Hello.'
+ban:
+  reason: Temporarily banned from server for  3 days
+  timeout: 0

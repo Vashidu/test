@@ -1,0 +1,23 @@
+timestamps:
+  login: 1335556329777
+  lastteleport: 1335556077592
+  logout: 1335556401821
+ipAddress: 70.30.17.127
+lastlocation:
+  world: world
+  x: 379.6287894041837
+  y: 63.0
+  z: -262.47427380253407
+  yaw: 20.82367
+  pitch: 63.000076
+homes:
+  home:
+    world: world
+    x: 695.8764928980181
+    y: 4.0
+    z: -169.30000001192093
+    yaw: -162.92609
+    pitch: 56.69993
+money: 97.0
+ban:
+  reason: 'Greifing: Appeal at champcraft.net'

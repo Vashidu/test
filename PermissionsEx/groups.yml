@@ -1,0 +1,409 @@
+# Group inheritance
+# any inherited groups prefixed with a g: are global groups
+# These groups are defined in the globalgroups.yml
+# and can be inherited in any worlds groups/users.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and defined in the this groups.yml file.
+
+groups:
+  SyS-Min:
+    default: false
+    permissions:
+    - -vanish.nointeract
+    - '*'
+    inheritance:
+    - admin
+    info:
+      prefix: '&6[&0System Admin&6]&khi&f '
+      build: true
+      suffix: ' &kyes&r&e'
+  Owner:
+    default: false
+    permissions:
+    - '*'
+    - essentials.*
+    inheritance:
+    - head-admin
+    info:
+      prefix: '&e&l[&mOwn3r&kz]'
+      build: true
+      suffix: ''
+  SeniorDEV:
+    default: false
+    permissions:
+    - essentials.clearinventory.others
+    - essentials.gamemode
+    - essentials.item
+    - essentials.setjail
+    - essentials.tphere
+    - essentials.unban
+    - nocheat.*
+    - worldedit.*
+    - worldedit.selection.*
+    - worldedit.wand
+    - worldguard.region.addmember.*
+    - worldguard.region.addowner.*
+    - worldguard.region.define
+    - worldguard.region.flag.flags.*
+    - worldguard.region.flag.regions.*
+    - worldguard.region.list
+    - worldguard.region.removemember.*
+    inheritance:
+    - admin
+    info:
+      prefix: '&4[&4Senior&1DEV]&4'
+      build: true
+      suffix: '&4'
+  Praefectus:
+    default: false
+    permissions:
+    - essentials.kit.light
+    - essentials.nick
+    - essentials.ptime
+    - essentials.suicide
+    inheritance:
+    - centurion
+    info:
+      prefix: '&f[&4Praefectus&f] '
+      build: true
+      suffix: ''
+  regular:
+    default: false
+    permissions:
+    - essentials.msg
+    - essentials.tpdeny
+    inheritance:
+    - default
+    info:
+      prefix: '&f[&6Member&f] '
+      build: true
+      suffix: ''
+  Senior-Admin:
+    default: false
+    permissions:
+    - essentials.*
+    - essentials.banip
+    - essentials.break
+    - essentials.broadcast
+    - essentials.deljail
+    - essentials.seen
+    - essentials.time
+    - essentials.time.set
+    - essentials.whois
+    - nocheat.*
+    - worldedit.*
+    - worldguard.*
+    inheritance:
+    - admin
+    info:
+      prefix: '&3[&6Senior-Admin&3] '
+      build: true
+      suffix: ''
+  Operator:
+    default: false
+    permissions:
+    - essentials.*
+    - nocheat.*
+    inheritance:
+    - senior-admin
+    info:
+      prefix: '&6[&3Operator&6]&3 '
+      build: true
+      suffix: ''
+  HeadOP:
+    default: false
+    permissions:
+    - essentials.*
+    - nocheat.*
+    inheritance:
+    - senior-admin
+    info:
+      prefix: '&6[&4Head &5Operator&6]&4 '
+      build: true
+      suffix: ''
+  Legati:
+    default: false
+    permissions:
+    - essentials.kit.build
+    - essentials.kit.gold
+    - worldedit.navigation.jumpto
+    - worldedit.navigation.thru
+    - worldedit.navigation.unstuck
+    inheritance:
+    - praefectus
+    info:
+      prefix: '&f[&2Legati&f] '
+      build: true
+      suffix: ''
+  LegatusLegioni:
+    default: false
+    permissions:
+    - essentials.gamemode
+    - essentials.item
+    inheritance:
+    - legati
+    info:
+      prefix: '&f[&3Legatus Legioni&f] '
+      build: true
+      suffix: ''
+  Miltes:
+    default: false
+    permissions:
+    - ac.chest
+    - essentials.feed
+    - essentials.god
+    - essentials.heal
+    - essentials.kit
+    - essentials.kit.food
+    - essentials.setwarp
+    - nocheat.checks.moving.flying
+    - worldguard.god
+    - worldguard.heal
+    - worldguard.ungod
+    - nocheatplus.mod.*
+    inheritance:
+    - tirones
+    info:
+      prefix: '&f[&9Miltes&f] '
+      build: true
+      suffix: ''
+  CoOwner:
+    default: false
+    permissions:
+    - worldguard.region.*
+    inheritance:
+    - admin
+    info:
+      prefix: '&4[&lCoOwner&4] &r'
+      build: false
+      suffix: ''
+  Hyperion:
+    default: false
+    permissions:
+    - essentials.gamemode
+    - essentials.item
+    - essentials.nick
+    - essentials.nick.color
+    - essentials.tphere
+    - worldedit.selection.*
+    - worldedit.wand
+    - worldguard.region.list
+    inheritance:
+    - zeus
+    info:
+      prefix: '&5&m[&lHyperion&kl]&6'
+      build: true
+      suffix: ''
+  Centurion:
+    default: false
+    permissions:
+    - essentials.jump
+    - essentials.kit.diamond
+    - essentials.tp
+    - nocheat.checks.moving.flying
+    - teleport.tp
+    inheritance:
+    - discen
+    info:
+      prefix: '&f[&bCenturion&f] '
+      build: true
+      suffix: ''
+  Admin:
+    default: false
+    permissions:
+    - essentials.clearinventory.others
+    - essentials.gamemode
+    - essentials.item
+    - essentials.setjail
+    - essentials.tempban
+    - essentials.tphere
+    - essentials.unban
+    - worldedit.selection.*
+    - worldedit.wand
+    - worldguard.region.addmember.*
+    - worldguard.region.addowner.*
+    - worldguard.region.define
+    - worldguard.region.flag.flags.*
+    - worldguard.region.flag.regions.*
+    - worldguard.region.list
+    - worldguard.region.removemember.*
+    inheritance:
+    - seniormod
+    info:
+      prefix: '&6[&1Admin&6] &1'
+      build: true
+      suffix: ''
+  default:
+    default: true
+    permissions:
+    - essentials.balance
+    - essentials.help
+    - essentials.helpop
+    - essentials.home
+    - essentials.list
+    - essentials.motd
+    - essentials.msg
+    - essentials.pay
+    - essentials.rules
+    - essentials.sethome
+    - essentials.signs.use.buy
+    - essentials.signs.use.sell
+    - essentials.spawn
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.warp
+    - essentials.warp.*
+    - herochat.autojoin.local
+    - herochat.join.global
+    - herochat.join.local
+    - herochat.pm
+    - herochat.speak.*
+    - herochat.speak.global
+    - lockette.user.create.*
+    - towny.nation.delete
+    - towny.nation.grant-titles
+    - towny.nation.new
+    - towny.nation.rename
+    - towny.town.claim
+    - towny.town.delete
+    - towny.town.new
+    - towny.town.rename
+    - towny.town.resident
+    - towny.town.spawn.*
+    - towny.town.toggle.*
+    - towny.wild.*
+    inheritance: []
+    info:
+      prefix: '&f[&7Guest&f] '
+      build: true
+      suffix: ''
+  SeniorMod:
+    default: false
+    permissions:
+    - essentials.back
+    - essentials.ban
+    - essentials.ban.notify
+    - essentials.ban.offline
+    - essentials.invsee
+    - essentials.kick.notify
+    - essentials.mute
+    - essentials.socialspy
+    - essentials.tempban
+    - essentials.togglejail
+    inheritance:
+    - moderator
+    info:
+      prefix: '&6[&9Senior-Mod&6] &9'
+      build: true
+      suffix: ''
+  Gladiator:
+    default: false
+    permissions:
+    - essentials.kit
+    - essentials.kit.gladiator
+    - essentials.kit.wood
+    inheritance: []
+    info:
+      prefix: '&f[&0Gladiator&f] &f'
+      build: false
+      suffix: ''
+  Zeus:
+    default: false
+    permissions:
+    - essentials.smite
+    - essentials.socialspy
+    inheritance:
+    - legatuslegioni
+    info:
+      prefix: '&f[&0Zeus&6] &6'
+      build: true
+      suffix: ''
+  Builder:
+    default: false
+    permissions:
+    - essentials.gamemode
+    - essentials.item
+    - worldedit.*
+    - worldedit.selection.*
+    - worldedit.wand
+    - worldguard.*
+    - worldguard.region.addmember.*
+    - worldguard.region.addowner.*
+    - worldguard.region.define
+    - worldguard.region.flag.flags.*
+    - worldguard.region.flag.regions.*
+    - worldguard.region.list
+    - worldguard.region.removemember.*
+    inheritance:
+    - regular
+    info:
+      prefix: '&6[&1Builder&6] &1'
+      build: true
+      suffix: ''
+  Discen:
+    default: false
+    permissions:
+    - essentials.kit.iron
+    - essentials.repair
+    - vanish.vanish
+    - worldedit.butcher
+    inheritance:
+    - miltes
+    info:
+      prefix: '&f[&6Discen&f] '
+      build: true
+      suffix: ''
+  Tirones:
+    default: false
+    permissions:
+    - nocheatplus.mods.*
+    inheritance:
+    - regular
+    info:
+      prefix: '&f[&8Tirones&f] '
+      build: true
+      suffix: ''
+  Moderator:
+    default: false
+    permissions:
+    - essentials.kick
+    - essentials.mute
+    - essentials.socialspy
+    - essentials.tp
+    - lockette.admin.bypass
+    - lockette.admin.snoop
+    - nocheat.checks.moving.flying
+    - nocheat.checks.moving.runfly
+    inheritance:
+    - legati
+    info:
+      prefix: '&6[&9Moderator&6] &9'
+      build: true
+      suffix: ''
+  Head-Admin:
+    default: false
+    permissions:
+    - disguisecraft.*
+    - essentials.*
+    - factions.*
+    - permission.op
+    - permission.op.others
+    - permission.operator
+    - permission.operator.others
+    - preciousstones.admin.*
+    - preciousstones.benefit.*
+    - preciousstones.bypass.*
+    - preciousstones.whitelist.*
+    - voxelsniper.*
+    - worldedit.*
+    - worldguard.*
+    inheritance:
+    - admin
+    - legatuslegioni
+    - owner
+    - builder
+    info:
+      prefix: '&6[&4Head-Admin&6] &4'
+      build: true
+      suffix: ''

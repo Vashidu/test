@@ -1,0 +1,79 @@
+---------- Permission nodes for DisguiseCraft ----------
+disguisecraft.* - Can use any DisguiseCraft functionality.
+disguisecraft.seer - Can see through disguises.
+disguisecraft.burning - Can have a burning disguise.
+disguisecraft.player - Can disguise as another player.
+disguisecraft.mob.* - Can disguise as any mob.
+disguisecraft.mob.blaze - Can disguise as a blaze.
+disguisecraft.mob.cavespider - Can disguise as a cave spider.
+disguisecraft.mob.chicken - Can disguise as a chicken.
+disguisecraft.mob.chicken.baby - Can disguise as a baby chicken.
+disguisecraft.mob.cow - Can disguise as a cow.
+disguisecraft.mob.cow.baby - Can disguise as a baby cow.
+disguisecraft.mob.creeper - Can disguise as a creeper.
+disguisecraft.mob.creeper.charged - Can disguise as a charged creeper.
+disguisecraft.mob.enderdragon - Can disguise as a ender dragon.
+disguisecraft.mob.enderman - Can disguise as a enderman.
+disguisecraft.mob.enderman.hold - Can hold blocks as an enderman.
+disguisecraft.mob.ghast - Can disguise as a ghast.
+disguisecraft.mob.giant - Can disguise as a giant.
+disguisecraft.mob.irongolem - Can disguise as an iron golem.
+disguisecraft.mob.magmacube - Can disguise as a magma cube.
+disguisecraft.mob.magmacube.size.* - Can disguise as a magmacube of any size.
+disguisecraft.mob.magmacube.size.tiny - Can disguise as a magmacube of size tiny.
+disguisecraft.mob.magmacube.size.small - Can disguise as a magmacube of size small.
+disguisecraft.mob.magmacube.size.big - Can disguise as a magmacube of size big.
+disguisecraft.mob.mushroomcow - Can disguise as a mooshroom.
+disguisecraft.mob.mushroomcow.baby - Can disguise as a baby mooshroom.
+disguisecraft.mob.ocelot - Can disguise as an ocelot.
+disguisecraft.mob.ocelot.baby - Can disguise as a baby ocelot.
+disguisecraft.mob.ocelot.cat.* - Can disguise as a cat of any type.
+disguisecraft.mob.ocelot.cat.tabby - Can disguise as a tabby cat.
+disguisecraft.mob.ocelot.cat.tuxedo - Can disguise as a tuxedo cat.
+disguisecraft.mob.ocelot.cat.siamese - Can disguise as a siamese cat.
+disguisecraft.mob.pig - Can disguise as a pig.
+disguisecraft.mob.pig.baby - Can disguise as a baby pig.
+disguisecraft.mob.pig.saddled - Can disguise as a saddled pig.
+disguisecraft.mob.pigzombie - Can disguise as a zombie pigman.
+disguisecraft.mob.sheep - Can disguise as a sheep.
+disguisecraft.mob.sheep.baby - Can disguise as a baby sheep.
+disguisecraft.mob.sheep.color.* - Can disguise as a sheep of any color.
+disguisecraft.mob.sheep.color.black - Can disguise as a sheep of the color black.
+disguisecraft.mob.sheep.color.blue - Can disguise as a sheep of the color blue.
+disguisecraft.mob.sheep.color.brown - Can disguise as a sheep of the color brown.
+disguisecraft.mob.sheep.color.cyan - Can disguise as a sheep of the color cyan.
+disguisecraft.mob.sheep.color.gray - Can disguise as a sheep of the color gray.
+disguisecraft.mob.sheep.color.green - Can disguise as a sheep of the color green.
+disguisecraft.mob.sheep.color.lightblue - Can disguise as a sheep of the color light blue.
+disguisecraft.mob.sheep.color.lime - Can disguise as a sheep of the color lime.
+disguisecraft.mob.sheep.color.magenta - Can disguise as a sheep of the color magenta.
+disguisecraft.mob.sheep.color.orange - Can disguise as a sheep of the color orange.
+disguisecraft.mob.sheep.color.pink - Can disguise as a sheep of the color pink.
+disguisecraft.mob.sheep.color.purple - Can disguise as a sheep of the color purple.
+disguisecraft.mob.sheep.color.red - Can disguise as a sheep of the color red.
+disguisecraft.mob.sheep.color.silver - Can disguise as a sheep of the color silver.
+disguisecraft.mob.sheep.color.white - Can disguise as a sheep of the color white.
+disguisecraft.mob.sheep.color.yellow - Can disguise as a sheep of the color yellow.
+disguisecraft.mob.sheep.color.sheared - Can disguise as a sheared sheep.
+disguisecraft.mob.silverfish - Can disguise as a silverfish.
+disguisecraft.mob.skeleton - Can disguise as a skeleton.
+disguisecraft.mob.slime - Can disguise as a slime.
+disguisecraft.mob.slime.size.* - Can disguise as a slime of any size.
+disguisecraft.mob.slime.size.tiny - Can disguise as a slime of any size tiny.
+disguisecraft.mob.slime.size.small - Can disguise as a slime of any size small.
+disguisecraft.mob.slime.size.big - Can disguise as a slime of any size big.
+disguisecraft.mob.snowman - Can disguise as a snow golem.
+disguisecraft.mob.spider - Can disguise as a spider.
+disguisecraft.mob.squid - Can disguise as a squid.
+disguisecraft.mob.villager - Can disguise as a villager.
+disguisecraft.mob.villager.baby - Can disguise as a baby villager.
+disguisecraft.mob.villager.occupation.* - Can disguise as a villager of any occupation.
+disguisecraft.mob.villager.occupation.librarian - Can disguise as a librarian villager.
+disguisecraft.mob.villager.occupation.priest - Can disguise as a priest villager.
+disguisecraft.mob.villager.occupation.blacksmith - Can disguise as a blacksmith villager.
+disguisecraft.mob.villager.occupation.butcher - Can disguise as a butcher villager.
+disguisecraft.mob.wolf - Can disguise as a wolf.
+disguisecraft.mob.wolf.baby - Can disguise as a baby wolf.
+disguisecraft.mob.wolf.tamed - Can disguise as a tamed wolf.
+disguisecraft.mob.wolf.aggressive - Can disguise as a agressive wolf.
+disguisecraft.mob.zombie - Can disguise as a zombie.

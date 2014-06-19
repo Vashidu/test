@@ -1,0 +1,26 @@
+timestamps:
+  login: 1338536224914
+  logout: 1338536256458
+  lastteleport: 1338285236377
+  lastheal: 1336995796095
+  jail: 0
+ipAddress: 174.65.174.32
+lastlocation:
+  world: world
+  x: -59.477080028454736
+  y: 80.31359317727998
+  z: 429.2655618794581
+  yaw: 296.9424
+  pitch: 26.94808
+homes:
+  home:
+    world: world
+    x: 2482.1133289787863
+    y: 63.0
+    z: 3070.8478855439853
+    yaw: -265.75458
+    pitch: 44.652653
+godmode: true
+money: 120914.0
+jailed: false
+nickname: Pyro

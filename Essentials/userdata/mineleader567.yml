@@ -1,0 +1,23 @@
+timestamps:
+  login: 1335908409995
+  lastteleport: 1335914313034
+  logout: 1335914316127
+ipAddress: 24.246.48.149
+lastlocation:
+  world: world
+  x: 2441.6387342602193
+  y: 39.0
+  z: -442.5272039414725
+  yaw: -197.0763
+  pitch: 14.365735
+homes:
+  home:
+    world: world
+    x: 2438.825959945695
+    y: 38.0
+    z: -437.69999998807907
+    yaw: -164.73625
+    pitch: 40.722855
+money: 0.0
+ban:
+  reason: 'Killing In Spawn: Appeal at champcraft.net'

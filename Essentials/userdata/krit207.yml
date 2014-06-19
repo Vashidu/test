@@ -1,0 +1,29 @@
+timestamps:
+  login: 1341081720782
+  lastteleport: 1340816073420
+  logout: 1341081830177
+  lastheal: 1338847707231
+  mute: 0
+ipAddress: 108.83.94.59
+lastlocation:
+  world: world
+  x: -252.0761784272146
+  y: 61.0
+  z: 622.7941380949399
+  yaw: -91.01922
+  pitch: 37.1616
+homes:
+  home:
+    world: world
+    x: 55.57532683342199
+    y: 63.0
+    z: 74.88491628878887
+    yaw: 89.00827
+    pitch: 4.840835
+money: 1966070.0
+godmode: true
+nickname: §bK§ar§bi§at
+muted: false
+ban:
+  reason: Temporarily banned from server for 1 second
+  timeout: 0

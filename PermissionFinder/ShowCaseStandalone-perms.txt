@@ -1,0 +1,11 @@
+---------- Permission nodes for ShowCaseStandalone ----------
+scs.use - Gives players permission to use SCS
+scs.create.buy - Gives players permission to create buy showcases
+scs.create.sell - Gives players permission to create sell showcases
+scs.create.display - Gives players permission to create display showcases
+scs.remove - Gives players permission to remove showcases
+scs.manage - Gives player ability to manage showcases
+scs.create - Gives players permission to create any kind of scs
+scs.create.unlimited - Gives player ability to create unlimited showcases
+scs.admin - Gives player ability to administrate showcases
+scs.* - Gives all permissions for ShowcaseStandalone

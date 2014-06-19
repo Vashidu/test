@@ -1,0 +1,13 @@
+---------- Permission nodes for Jobs ----------
+jobs.* - Grants access to all Jobs commands
+jobs.use - Grants ability to use this plugin
+jobs.admin.* - Grants player access to all admin commands
+jobs.admin.info - Grants access to the admininfo command
+jobs.admin.fire - Grants access to the fire command
+jobs.admin.employ - Grants access to the employ command
+jobs.admin.promote - Grants access to the promote command
+jobs.admin.demote - Grants access to the demote command
+jobs.admin.grantxp - Grants access to the grantxp command
+jobs.admin.removexp - Grants access to the removexp command
+jobs.admin.transfer - Grants access to the transfer command
+jobs.admin.reload - Grants access to the reload command

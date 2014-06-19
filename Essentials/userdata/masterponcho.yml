@@ -1,0 +1,15 @@
+timestamps:
+  login: 1337149516306
+  logout: 1337152306410
+  lastteleport: 1337151150047
+ipAddress: 99.245.139.70
+lastlocation:
+  world: world
+  x: 100.43570313446074
+  y: 74.0
+  z: 572.4693628650334
+  yaw: -44.959824
+  pitch: 17.967075
+money: 24.0
+ban:
+  reason: griefing

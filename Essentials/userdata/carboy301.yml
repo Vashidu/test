@@ -1,0 +1,29 @@
+timestamps:
+  login: 1341109694679
+  lastteleport: 1341107993611
+  logout: 1341109836346
+  lastheal: 1341080078986
+  mute: 0
+ipAddress: 99.47.89.73
+lastlocation:
+  world: world
+  x: 492.68569052804685
+  y: 69.0
+  z: 736.7361098473723
+  yaw: 220.38759
+  pitch: 1.1059376
+homes:
+  home:
+    world: world
+    x: 2695.8150310734673
+    y: 114.0
+    z: 1312.8307695428043
+    yaw: 255.27203
+    pitch: 4.1255436
+money: 180378.08000000005
+ban:
+  reason: Temporarily banned from server for 1 day 1 second
+  timeout: 1339967588378
+godmode: false
+muted: false
+nickname: CAR

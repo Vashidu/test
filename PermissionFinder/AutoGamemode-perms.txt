@@ -1,0 +1,25 @@
+---------- Permission nodes for AutoGamemode ----------
+autogamemode.login.survival - Every time a player logs in and has got that permission, the plugin checks, whether he is in the creative mode and in that case he will be changed to survival mode!
+autogamemode.login.creative - Every time a player logs in and has got that permission, the plugin checks, whether he is in the survival mode and in that case he will be changed to creative mode!
+autogamemode.info - Players with the permission are allowed to use "/AutoGamemode", "/AutoGamemode me", "/AutoGamemode help", "/AutoGamemode ?" and "/AutoGamemode version"!
+autogamemode.changeall.creative - Players with the permission are allowed to change the gamemode of every player who is online to creative (with "/all creative")!
+autogamemode.changeall.survival - Players with the permission are allowed to change the gamemode of every player who is online to survival (with "/all survival")!
+autogamemode.changeall.switch - Players with the permission are allowed to switch the gamemode of every player who is online with "/all gm"!
+autogamemode.changeall.ignore - Players with the permission will be ignored by the "/all" commands!
+autogamemode.changeall.check - Allows to check the gamemode of every player who is online.
+autogamemode.command.creative - Players with the permission are allowed to use /creative
+autogamemode.command.survival - Players with the permission are allowed to use /survival
+autogamemode.command.switch - Players with the permission are allowed to use /switch
+autogamemode.inform - Players with the permission get a message, every time someone's gamemode changes ...
+autogamemode.command.check - Players with the permission are allowed to use /checkgm
+autogamemode.changeworld.survival - Every time a player changes its world and has got that permission, the plugin checks, whether he is in the creative mode and in that case he will be changed to survival mode!
+autogamemode.changeworld.creative - Every time a player changes its world and has got that permission, the plugin checks, whether he is in the survival mode and in that case he will be changed to creative mode!
+autogamemode.changeothers.creative - Players with the permission are allowed to change the gamemode of gamemode of other players to creative with /creative PlayerABC PlayerXYZ (max 15. Players)!
+autogamemode.changeothers.survival - Players with the permission are allowed to change the gamemode of other players to survival with /survival PlayerABC PlayerXYZ (max 15. Players)!
+autogamemode.changeothers.switch - Players with the permission are allowed to switch the gamemode of other players with /switch PlayerABC PlayerXYZ (max 15. Players)!
+autogamemode.changeothers.check - Players with the permission are allowed to check the gamemode of other players with /check PlayerABC PlayerXYZ (max 15. Players)!
+autogamemode.respawn.survival - Every time a player respawns and has got that permission, the plugin checks, whether he is in the creative mode and in that case he will be changed to survival mode!
+autogamemode.respawn.creative - Every time a player respawns and has got that permission, the plugin checks, whether he is in the survival mode and in that case he will be changed to creative mode!
+autogamemode.auto.getmessage - Players with this permission get a message, every time AutoGamemode automatically changes their gamemode!
+autogamemode.auto.gettrigger - Players with this permission will be informed about the trigger, every time AutoGamemode automatically changes their gamemode (getMessage must be true)!
+autogamemode.commands.getmessage - Players with this permission get a message, every time someone changes or checks their gamemode!

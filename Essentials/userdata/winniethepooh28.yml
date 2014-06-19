@@ -1,0 +1,25 @@
+timestamps:
+  login: 1336882624365
+  logout: 1336882628479
+  lastteleport: 1336751709351
+  lastheal: 1335014967221
+ipAddress: 24.138.26.236
+lastlocation:
+  world: world
+  x: 787.6860926094614
+  y: 63.0
+  z: -1087.5433840810847
+  yaw: 189.74615
+  pitch: 16.65
+homes:
+  home:
+    world: world
+    x: 1991.5762325074945
+    y: 64.0
+    z: 710.2852219732225
+    yaw: 282.32593
+    pitch: 7.6499767
+nickname: MeganF
+godmode: false
+money: 17300.0
+socialspy: false

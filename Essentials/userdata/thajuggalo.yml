@@ -1,0 +1,40 @@
+timestamps:
+  login: 1337073387324
+  logout: 1337075041657
+  lastteleport: 1337073156584
+  kits:
+    tools: 1334765842884
+    dtools: 1334765847231
+    wood: 1334954259256
+    gladiator: 1334956490742
+  mute: 0
+ipAddress: 69.170.65.42
+lastlocation:
+  world: world
+  x: 717.3184719081936
+  y: 63.68711994130278
+  z: -1023.3567343882128
+  yaw: 95.956184
+  pitch: 11.250001
+afk: false
+powertools:
+  '272':
+  - smite
+  '267':
+  - fireball
+godmode: false
+money: 1.02676439887E11
+homes:
+  home:
+    world: world
+    x: 7033.673318476472
+    y: 63.0
+    z: 4224.136306724529
+    yaw: -62.975887
+    pitch: 14.421126
+nickname: §3T§7h§3a§7J§3u§7g§3g§7a§3l§7o
+socialspy: true
+ban:
+  reason: Temporarily banned from server for  7 days
+  timeout: 1337271281667
+muted: false

@@ -1,0 +1,27 @@
+timestamps:
+  login: 1340907285906
+  lastteleport: 1340879978570
+  logout: 1340907384713
+  lastheal: 1337816757223
+  kits:
+    tools: 1338168500358
+ipAddress: 92.96.33.117
+lastlocation:
+  world: world
+  x: 2139.115208408803
+  y: 103.45000004768369
+  z: -92.76638143562859
+  yaw: -220.1433
+  pitch: 47.999928
+money: 8080.0
+homes:
+  home:
+    world: world
+    x: 3286.034038997917
+    y: 68.0
+    z: 245.5754127067454
+    yaw: -1.5913296
+    pitch: 21.860556
+godmode: true
+nickname: §5F§6o§5o§6d
+afk: false

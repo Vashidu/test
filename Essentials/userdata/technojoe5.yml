@@ -1,0 +1,29 @@
+timestamps:
+  login: 1338532161801
+  lastteleport: 1338532177021
+  logout: 1338532250588
+  mute: 0
+  jail: 0
+ipAddress: 71.81.44.134
+lastlocation:
+  world: world
+  x: 1427.4809266378404
+  y: 75.48386613569485
+  z: 3397.4443774457254
+  yaw: -285.3661
+  pitch: 88.86561
+homes:
+  home:
+    world: world
+    x: 1432.3485110515282
+    y: 176.0
+    z: 3413.2877370810825
+    yaw: -271.61807
+    pitch: 9.821181
+money: 40759.0
+muted: false
+ban:
+  reason: Temporarily banned from server for  1 minute
+  timeout: 0
+jailed: false
+nickname: TechnoJoe

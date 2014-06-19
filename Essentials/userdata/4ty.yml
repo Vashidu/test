@@ -1,0 +1,35 @@
+timestamps:
+  login: 1341105742603
+  lastteleport: 1341107465667
+  logout: 1341107605630
+  kits:
+    gladiator: 1334881051553
+ipAddress: 68.79.96.84
+lastlocation:
+  world: world
+  x: 588.527769591077
+  y: 65.0
+  z: 676.5179422022776
+  yaw: -254.72748
+  pitch: 59.249985
+money: 9.6268553E7
+powertools:
+  '259':
+  - pay krit 1
+  '276':
+  - smite
+socialspy: true
+godmode: false
+afk: false
+teleportenabled: true
+homes:
+  home:
+    world: world
+    x: 55.8462923513642
+    y: 115.0
+    z: -323.34326930708016
+    yaw: 46.64856
+    pitch: 16.350033
+nickname: §4E§1lliot§4t
+ban:
+  reason: griefing, if you need to contact me contact vashidu

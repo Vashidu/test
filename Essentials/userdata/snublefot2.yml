@@ -1,0 +1,25 @@
+timestamps:
+  login: 1338667520124
+  lastteleport: 1338671154180
+  logout: 1338671329001
+  lastheal: 1338664461482
+ipAddress: 85.164.253.1
+lastlocation:
+  world: world
+  x: -156.5189108751606
+  y: 77.0
+  z: 534.727754307876
+  yaw: 34.94989
+  pitch: 6.0001326
+money: 24622.0
+homes:
+  home:
+    world: world
+    x: -147.1415757957819
+    y: 77.0
+    z: 526.3905749518908
+    yaw: 232.34987
+    pitch: 13.05012
+ban:
+  reason: 'Make a Ban Appeal on the Forums: Grief.'
+godmode: true

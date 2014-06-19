@@ -1,0 +1,23 @@
+timestamps:
+  login: 1336147273706
+  lastteleport: 1336146402604
+  logout: 1336147309600
+ipAddress: 86.135.142.133
+lastlocation:
+  world: world
+  x: 3859.5639694737715
+  y: 70.0
+  z: 322.5306915920627
+  yaw: 170.49538
+  pitch: -8.699783
+money: 190.0
+homes:
+  home:
+    world: world
+    x: 3563.7921403158934
+    y: 64.0
+    z: -1223.0179924096208
+    yaw: -0.53334105
+    pitch: 1.6624633
+ban:
+  reason: Do not insult mods/admins/ops

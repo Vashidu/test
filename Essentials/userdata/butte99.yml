@@ -1,0 +1,22 @@
+timestamps:
+  login: 1335381771061
+  lastteleport: 1335381355070
+  logout: 1335381896047
+ipAddress: 213.64.148.230
+lastlocation:
+  world: world
+  x: 770.0388541318971
+  y: 68.0
+  z: -2007.1568891086413
+  yaw: 91.22385
+  pitch: 18.6
+homes:
+  home:
+    world: world
+    x: 4272.244875328837
+    y: 63.0
+    z: 5166.25501145274
+    yaw: -165.07094
+    pitch: 17.100033
+ban:
+  reason: discovered with bedrock recode that you greifed

@@ -1,0 +1,25 @@
+timestamps:
+  login: 1336895873144
+  lastteleport: 1336890756877
+  logout: 1336896326063
+ipAddress: 174.112.60.242
+lastlocation:
+  world: world
+  x: 1199.190568577336
+  y: 163.20000004768372
+  z: -1178.699999988079
+  yaw: 83.20509
+  pitch: 51.12122
+homes:
+  home:
+    world: world
+    x: 3482.9627502746857
+    y: 68.0
+    z: -973.3064642510024
+    yaw: -28.426445
+    pitch: 10.24584
+nickname: Carson
+money: 0.0
+godmode: false
+ban:
+  reason: Hax :[

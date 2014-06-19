@@ -1,0 +1,23 @@
+timestamps:
+  login: 1335453167563
+  lastteleport: 1335453191961
+  logout: 1335453362703
+ipAddress: 174.109.36.190
+lastlocation:
+  world: world
+  x: 133.3000000119209
+  y: 19.0
+  z: 335.6315493119143
+  yaw: -11.492065
+  pitch: 9.562127
+homes:
+  home:
+    world: world
+    x: 134.59070588340006
+    y: 20.0
+    z: 333.4029707700652
+    yaw: -162.03674
+    pitch: 12.757709
+money: 0.0
+ban:
+  reason: Being retarded

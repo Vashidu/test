@@ -1,0 +1,24 @@
+timestamps:
+  login: 1338674801632
+  lastteleport: 1338669477323
+  logout: 1338674908043
+ipAddress: 70.49.72.46
+lastlocation:
+  world: world
+  x: 676.8776870999399
+  y: 73.0
+  z: 283.3406387704602
+  yaw: -330.25775
+  pitch: 18.427103
+money: 2808296.0
+homes:
+  home:
+    world: world
+    x: 678.282155515939
+    y: 73.0
+    z: 290.24916147532434
+    yaw: -182.36194
+    pitch: 15.577092
+ban:
+  reason: Offically Temp Banned, 5th Grief.
+  timeout: 0

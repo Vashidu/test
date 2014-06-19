@@ -1,0 +1,11 @@
+enableDestroyCommand: false
+infoColor: GREEN
+interfaceBlockType: LAPIS_BLOCK
+usePermissions: false
+errorColor: RED
+inputBlockType: IRON_BLOCK
+signColor: 4
+maxInputChangesPerTick: 20000
+debugColor: AQUA
+iptransmitter.ports: 25600..25699
+outputBlockType: GOLD_BLOCK

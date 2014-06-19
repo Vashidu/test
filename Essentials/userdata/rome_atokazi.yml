@@ -1,0 +1,32 @@
+timestamps:
+  login: 1339464942465
+  logout: 1339465085744
+  lastteleport: 1339463708286
+  kits:
+    dtools: 1334880766132
+  lastheal: 1335831039387
+ipAddress: 67.173.240.191
+lastlocation:
+  world: world
+  x: -81.13859981220023
+  y: 20.0
+  z: 291.48523097926187
+  yaw: 40.50038
+  pitch: 37.79992
+homes:
+  home:
+    world: world_nether
+    x: 229.40225358721713
+    y: 135.0
+    z: 153.87768117101604
+    yaw: -193.0648
+    pitch: 14.24999
+money: 84979.0
+socialspy: true
+afk: false
+powertools:
+  '261':
+  - heal
+ban:
+  reason: Giving out money
+godmode: false

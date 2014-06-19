@@ -1,0 +1,23 @@
+timestamps:
+  login: 1336750042018
+  lastteleport: 1336750445431
+  logout: 1336750451442
+ipAddress: 86.6.193.204
+lastlocation:
+  world: world_nether
+  x: -96.40640395563378
+  y: 78.0
+  z: 657.1875126893362
+  yaw: -69.70613
+  pitch: 4.649992
+homes:
+  home:
+    world: world
+    x: 3989.497623267638
+    y: 6.0
+    z: 76.89022006578828
+    yaw: 161.05139
+    pitch: 14.400004
+money: 2041.0
+ban:
+  reason: Griefer

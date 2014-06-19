@@ -1,0 +1,29 @@
+timestamps:
+  login: 1334590555865
+  lastteleport: 1334590578372
+  logout: 1334590681457
+  mute: 0
+  lastheal: 1334589308964
+ipAddress: 112.205.192.182
+lastlocation:
+  world: world
+  x: 3640.6055353230363
+  y: 61.0
+  z: 1675.5337680500413
+  yaw: 212.23344
+  pitch: -0.74999845
+homes:
+  home:
+    world: world
+    x: 4415.300000011921
+    y: 63.0
+    z: 473.8135235265385
+    yaw: -104.53252
+    pitch: 68.100075
+money: 1040.0
+godmode: true
+socialspy: true
+muted: false
+nickname: xXxEdmart5xXx
+ban:
+  reason: Ever. Do not come back.

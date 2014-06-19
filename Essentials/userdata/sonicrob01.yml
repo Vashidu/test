@@ -1,0 +1,22 @@
+timestamps:
+  login: 1338839313246
+  lastteleport: 1338839352447
+  logout: 1338841211482
+ipAddress: 68.248.75.235
+lastlocation:
+  world: world
+  x: 2178.773964300329
+  y: 64.0
+  z: 1212.2150380624037
+  yaw: 21.13684
+  pitch: 20.400034
+homes:
+  home:
+    world: world
+    x: 289.5821048733394
+    y: 16.0
+    z: -2524.300000011921
+    yaw: -3.275726
+    pitch: 16.94999
+nickname: TeamAv0
+afk: false

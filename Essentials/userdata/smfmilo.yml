@@ -1,0 +1,31 @@
+timestamps:
+  login: 1341020829809
+  lastteleport: 1338765184020
+  logout: 1341020930227
+  lastheal: 1338453548467
+  jail: 0
+ipAddress: 216.99.58.13
+lastlocation:
+  world: world
+  x: -695.2928791560028
+  y: 83.17499996719641
+  z: -126.64941148719716
+  yaw: -12.090179
+  pitch: 6.121214
+godmode: false
+money: 1469586.0
+ban:
+  reason: stfu
+  timeout: 0
+homes:
+  home:
+    world: world
+    x: 115.34609375687393
+    y: 59.0
+    z: -585.3000000119209
+    yaw: 170.40765
+    pitch: 61.638996
+nickname: Milo
+jailed: false
+socialspy: true
+afk: false

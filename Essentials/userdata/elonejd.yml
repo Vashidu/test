@@ -1,0 +1,23 @@
+timestamps:
+  login: 1340853578879
+  lastteleport: 1337918934369
+  logout: 1340853591600
+ipAddress: 74.78.224.35
+lastlocation:
+  world: world
+  x: -45.5
+  y: 77.0
+  z: 426.5
+  yaw: 29.999979
+  pitch: 44.70001
+homes:
+  home:
+    world: world
+    x: 2776.931610593707
+    y: 68.0
+    z: -217.6711147736578
+    yaw: -178.65105
+    pitch: 42.89998
+money: 188.0
+godmode: false
+nickname: §4elonejd

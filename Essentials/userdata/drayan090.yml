@@ -1,0 +1,23 @@
+timestamps:
+  login: 1334182858766
+  lastteleport: 1334182952868
+  logout: 1334183046105
+ipAddress: 80.1.199.63
+lastlocation:
+  world: world
+  x: -181.56379750393683
+  y: 82.0
+  z: 1167.699999988079
+  yaw: -169.37256
+  pitch: 18.45001
+homes:
+  home:
+    world: world
+    x: -185.98123258651725
+    y: 95.0
+    z: 1172.2077101853629
+    yaw: -140.1229
+    pitch: 7.649943
+money: 180.0
+ban:
+  reason: No rude people are aloud
